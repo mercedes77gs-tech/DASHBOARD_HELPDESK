@@ -1,0 +1,138 @@
+table tickets_helpdesk_completo
+	lineageTag: a13821cc-55cb-4de7-bf58-5108d7961081
+
+	measure '% Tickets Resueltos' =
+			
+			DIVIDE(
+			    CALCULATE(
+			        COUNTROWS(tickets_helpdesk_completo),
+			        tickets_helpdesk_completo[Estado] = "Cerrado"
+			    ),
+			    COUNTROWS(tickets_helpdesk_completo),
+			    0
+			)
+		formatString: 0.00\ %;-0.00\ %;0.00\ %
+		lineageTag: fa316980-d3ab-4430-a933-5302b890f062
+
+	measure Satisfaccion_Media = AVERAGE(tickets_helpdesk_completo[Satisfaccion])
+		lineageTag: 4b51d061-9d17-4f95-ac59-c94dea581ca4
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure Backlog_Fijo = ```
+			CALCULATE( COUNT(tickets_helpdesk_completo[ID_Ticket]), ALL(tickets_helpdesk_completo), tickets_helpdesk_completo[Estado] = "Abierto" )
+			
+			```
+		formatString: 0
+		lineageTag: d180288b-6ad4-41aa-9485-1b1c3cc29057
+
+	measure 'PROMEDIO MIN RESOLUCION' = AVERAGEX(FILTER('tickets_helpdesk_completo','tickets_helpdesk_completo'[ESTADO]="Cerrado"),HOUR('TICKETS_HELPDESK_COMPLETO'[TIEMPO_TICKET])+60+MINUTE('TICKETS_HELPDESK_COMPLETO'[TIEMPO_TICKET]))
+		formatString: 0
+		lineageTag: 41b035ac-091e-4921-a01f-0e218a367ca6
+
+	column ID_Ticket
+		dataType: string
+		lineageTag: 42f2e92d-5207-45b5-8573-f49e4f090523
+		summarizeBy: none
+		sourceColumn: ID_Ticket
+
+		annotation SummarizationSetBy = Automatic
+
+	column Fecha_Apertura
+		dataType: dateTime
+		formatString: General Date
+		lineageTag: e3a034c4-ddc8-43b5-92de-8d1fe30339d2
+		summarizeBy: none
+		sourceColumn: Fecha_Apertura
+
+		variation Variation
+			isDefault
+			relationship: 9c8b83da-660c-4e78-892e-34f1ff12d392
+			defaultHierarchy: LocalDateTable_26a0d9c0-304e-4e37-aa2f-c00bb7d4917c.'Jerarquía de fechas'
+
+		annotation SummarizationSetBy = Automatic
+
+	column Fecha_Cierre
+		dataType: dateTime
+		formatString: General Date
+		lineageTag: 2692adca-f237-47de-9811-86efd6b693f9
+		summarizeBy: none
+		sourceColumn: Fecha_Cierre
+
+		variation Variation
+			isDefault
+			relationship: 4b1229ea-8710-4b1c-88ba-909a36f80d45
+			defaultHierarchy: LocalDateTable_80097fae-aa1f-4aa1-93bc-777041c1db29.'Jerarquía de fechas'
+
+		annotation SummarizationSetBy = Automatic
+
+	column Categoría
+		dataType: string
+		lineageTag: d813c863-c4ff-449e-b288-e8c74ad8ec3c
+		summarizeBy: none
+		sourceColumn: Categoría
+
+		annotation SummarizationSetBy = Automatic
+
+	column Prioridad
+		dataType: string
+		lineageTag: 353ca537-35cb-4cb4-8785-3ad3dcb466ec
+		summarizeBy: none
+		sourceColumn: Prioridad
+
+		annotation SummarizationSetBy = Automatic
+
+	column Estado
+		dataType: string
+		lineageTag: 0979c2fb-f1fd-4cf4-ba13-a4d4ec6a5f13
+		summarizeBy: none
+		sourceColumn: Estado
+
+		annotation SummarizationSetBy = Automatic
+
+	column ID_Agente
+		dataType: string
+		lineageTag: f2476188-07f4-4ef7-b13c-9e5f1535e5c3
+		summarizeBy: none
+		sourceColumn: ID_Agente
+
+		annotation SummarizationSetBy = Automatic
+
+	column Satisfaccion
+		dataType: int64
+		formatString: 0
+		lineageTag: 4255b431-af5e-49bb-83c6-6e9aa17d6bc8
+		summarizeBy: sum
+		sourceColumn: Satisfaccion
+
+		annotation SummarizationSetBy = Automatic
+
+	column Tiempo_ticket = IF(tickets_helpdesk_completo[Estado]="cerrado", [Fecha_Cierre]-[Fecha_Apertura],blank())
+		dataType: dateTime
+		formatString: hh"H"nn
+		lineageTag: bb5fdd6f-eac1-4c3f-a573-7d348d034b61
+		summarizeBy: none
+
+		changedProperty = DataType
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Time
+
+		annotation PBI_FormatHint = {"isDateTimeCustom":true}
+
+	partition tickets_helpdesk_completo = m
+		mode: import
+		source =
+				let
+				    Origen = Csv.Document(File.Contents("Z:\MIS TRABAJOS\DASHBOARD_HELPDESK\CSV\tickets_helpdesk_completo.csv"),[Delimiter=",", Columns=8, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+				    #"Encabezados promovidos" = Table.PromoteHeaders(Origen, [PromoteAllScalars=true]),
+				    #"Tipo cambiado" = Table.TransformColumnTypes(#"Encabezados promovidos",{{"ID_Ticket", type text}, {"Fecha_Apertura", type datetime}, {"Fecha_Cierre", type datetime}, {"Categoría", type text}, {"Prioridad", type text}, {"Estado", type text}, {"ID_Agente", type text}, {"Satisfaccion", Int64.Type}}),
+				    #"Valor reemplazado" = Table.ReplaceValue(#"Tipo cambiado","En Progreso","En Curso",Replacer.ReplaceText,{"Estado"})
+				in
+				    #"Valor reemplazado"
+
+	annotation PBI_NavigationStepName = Navegación
+
+	annotation PBI_ResultType = Table
+

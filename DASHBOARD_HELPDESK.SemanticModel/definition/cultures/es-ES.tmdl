@@ -1,0 +1,2822 @@
+cultureInfo es-ES
+
+	linguisticMetadata =
+			{
+			  "Version": "4.1.0",
+			  "Language": "en-US",
+			  "Entities": {
+			    "tickets_helpdesk_completo.tiempo_ticket": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "tickets_helpdesk_completo",
+			          "ConceptualProperty": "Tiempo_ticket"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "tiempo ticket": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Tiempo_ticket": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "time": {
+			            "State": "Generated",
+			            "Weight": 0.7
+			          }
+			        },
+			        {
+			          "tiempo coupon": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "tiempo permit": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "tiempo voucher": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "tiempo receipt": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "tiempo marker": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "tiempo sticker": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "tiempo label": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.461
+			          }
+			        },
+			        {
+			          "tiempo tag": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.461
+			          }
+			        },
+			        {
+			          "tiempo tab": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.461
+			          }
+			        },
+			        {
+			          "tiempo docket": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.461
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "tickets_helpdesk_completo": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "tickets_helpdesk_completo"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "tickets helpdesk completo": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "ticket helpdesk completo": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "tickets_helpdesk_completo": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo.ID_ticket": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "tickets_helpdesk_completo",
+			          "ConceptualProperty": "ID_Ticket"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "ID ticket": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "ID_Ticket": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "ticket": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "identification ticket": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "identity ticket": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "identifier ticket": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "credential ticket": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "id coupon": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "coupon": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "id permit": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "id voucher": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "id receipt": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "permit": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo.fecha_apertura": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "tickets_helpdesk_completo",
+			          "ConceptualProperty": "Fecha_Apertura"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "fecha apertura": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Fecha_Apertura": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "date": {
+			            "State": "Generated",
+			            "Weight": 0.7
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "tickets_helpdesk_completo.fecha_apertura.jerarquía_de_fecha": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "tickets_helpdesk_completo",
+			          "VariationSource": "Fecha_Apertura",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Jerarquía de fechas"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "jerarquía de fecha": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo.fecha_apertura.año": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "tickets_helpdesk_completo",
+			          "VariationSource": "Fecha_Apertura",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Jerarquía de fechas",
+			          "HierarchyLevel": "Año"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "año": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "fecha apertura año": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo.fecha_apertura.trimestre": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "tickets_helpdesk_completo",
+			          "VariationSource": "Fecha_Apertura",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Jerarquía de fechas",
+			          "HierarchyLevel": "Trimestre"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "trimestre": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "fecha apertura trimestre": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo.fecha_apertura.me": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "tickets_helpdesk_completo",
+			          "VariationSource": "Fecha_Apertura",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Jerarquía de fechas",
+			          "HierarchyLevel": "Mes"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "me": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "fecha apertura me": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo.fecha_apertura.día": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "tickets_helpdesk_completo",
+			          "VariationSource": "Fecha_Apertura",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Jerarquía de fechas",
+			          "HierarchyLevel": "Día"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "día": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "fecha apertura día": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo.fecha_cierre": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "tickets_helpdesk_completo",
+			          "ConceptualProperty": "Fecha_Cierre"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "fecha cierre": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Fecha_Cierre": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "date": {
+			            "State": "Generated",
+			            "Weight": 0.7
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "tickets_helpdesk_completo.fecha_cierre.jerarquía_de_fecha": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "tickets_helpdesk_completo",
+			          "VariationSource": "Fecha_Cierre",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Jerarquía de fechas"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "jerarquía de fecha": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo.fecha_cierre.año": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "tickets_helpdesk_completo",
+			          "VariationSource": "Fecha_Cierre",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Jerarquía de fechas",
+			          "HierarchyLevel": "Año"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "año": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "fecha cierre año": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo.fecha_cierre.trimestre": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "tickets_helpdesk_completo",
+			          "VariationSource": "Fecha_Cierre",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Jerarquía de fechas",
+			          "HierarchyLevel": "Trimestre"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "trimestre": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "fecha cierre trimestre": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo.fecha_cierre.me": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "tickets_helpdesk_completo",
+			          "VariationSource": "Fecha_Cierre",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Jerarquía de fechas",
+			          "HierarchyLevel": "Mes"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "me": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "fecha cierre me": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo.fecha_cierre.día": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "tickets_helpdesk_completo",
+			          "VariationSource": "Fecha_Cierre",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Jerarquía de fechas",
+			          "HierarchyLevel": "Día"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "día": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "fecha cierre día": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo.categoría": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "tickets_helpdesk_completo",
+			          "ConceptualProperty": "Categoría"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "categoría": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo.prioridad": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "tickets_helpdesk_completo",
+			          "ConceptualProperty": "Prioridad"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "prioridad": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo.estado": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "tickets_helpdesk_completo",
+			          "ConceptualProperty": "Estado"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "estado": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo.ID_agente": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "tickets_helpdesk_completo",
+			          "ConceptualProperty": "ID_Agente"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "ID agente": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "ID_Agente": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "identification agente": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "identity agente": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "identifier agente": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "credential agente": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo.satisfaccion": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "tickets_helpdesk_completo",
+			          "ConceptualProperty": "Satisfaccion"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "satisfaccion": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo.tickets_resueltos": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "tickets_helpdesk_completo",
+			          "ConceptualProperty": "% Tickets Resueltos"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "% tickets resueltos": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "percentage ticket resuelto": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "pct ticket resuelto": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo.satisfaccion_media": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "tickets_helpdesk_completo",
+			          "ConceptualProperty": "Satisfaccion_Media"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "satisfaccion media": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Satisfaccion_Media": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "satisfaccion television": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "satisfaccion radio": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "satisfaccion broadcasting": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "satisfaccion vehicle": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "satisfaccion mode": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "satisfaccion method": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "satisfaccion avenue": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "satisfaccion agent": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "satisfaccion organ": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "satisfaccion mean": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.461
+			          }
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo.backlog_fijo": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "tickets_helpdesk_completo",
+			          "ConceptualProperty": "Backlog_Fijo"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "backlog fijo": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Backlog_Fijo": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo.promedio_min_resolucion": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "tickets_helpdesk_completo",
+			          "ConceptualProperty": "PROMEDIO MIN RESOLUCION"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "promedio min resolucion": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "promedio minimum resolucion": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "Minutos Promedio Resolucion": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "objetivos_SLA": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Objetivos_SLA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "objetivos SLA": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "objetivo SLA": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "Objetivos_SLA": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "objetivos_SLA.prioridad": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Objetivos_SLA",
+			          "ConceptualProperty": "Prioridad"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "prioridad": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "objetivos_SLA.tiempo_maximo_hora": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Objetivos_SLA",
+			          "ConceptualProperty": "Tiempo_Maximo_Horas"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "tiempo maximo hora": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Tiempo_Maximo_Horas": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "AGENTE__copia": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "AGENTE - copia"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "AGENTE - copia": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "AGENTE copia": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        }
+			      ]
+			    },
+			    "AGENTE__copia.ID_agente": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "AGENTE - copia",
+			          "ConceptualProperty": "ID_Agente"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "ID agente": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "ID_Agente": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "identification agente": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "identity agente": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "identifier agente": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "credential agente": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        }
+			      ]
+			    },
+			    "AGENTE__copia.nombre_agente": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "AGENTE - copia",
+			          "ConceptualProperty": "Nombre_Agente"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "nombre agente": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Nombre_Agente": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "AGENTE__copia.departamento___turno": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "AGENTE - copia",
+			          "ConceptualProperty": "Departamento / Turno"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "departamento / turno": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "departamento": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "departamento turno": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "turno": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        }
+			      ]
+			    },
+			    "AGENTE__copia.url_foto": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "AGENTE - copia",
+			          "ConceptualProperty": "URL_FOTO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "url foto": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "URL_FOTO": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "website foto": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "site foto": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "web address foto": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.471
+			          }
+			        }
+			      ]
+			    },
+			    "objetivos_SLA.color_SLA": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Objetivos_SLA",
+			          "ConceptualProperty": "Color_SLA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "color SLA": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Color_SLA": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "SLA": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        }
+			      ]
+			    },
+			    "objetivos_SLA.estado_SLA": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Objetivos_SLA",
+			          "ConceptualProperty": "Estado_SLA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "estado SLA": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Estado_SLA": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "SLA": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        }
+			      ]
+			    },
+			    "AGENTE__copia.URL_visor_imagen": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "AGENTE - copia",
+			          "ConceptualProperty": "URL_Visor_Imagen"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "URL visor imagen": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "URL_Visor_Imagen": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "website visor imagen": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "site visor imagen": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "web address visor imagen": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.484
+			          }
+			        }
+			      ]
+			    },
+			    "AGENTE__copia.nombre_visor_dinamico": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "AGENTE - copia",
+			          "ConceptualProperty": "Nombre_Visor_Dinamico"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "nombre visor dinamico": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Nombre_Visor_Dinamico": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    }
+			  },
+			  "Relationships": {
+			    "tickets_helpdesk_completo_fecha_cierre_trimestre_in_tickets_helpdesk_completo_fecha_cierre_año": {
+			      "Binding": {
+			        "ConceptualEntity": "tickets_helpdesk_completo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "tickets_helpdesk_completo.fecha_cierre.trimestre": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_cierre.trimestre"
+			          }
+			        },
+			        "tickets_helpdesk_completo.fecha_cierre.año": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_cierre.año"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo.fecha_cierre.trimestre"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.fecha_cierre.año"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "trimestres_are_in_años"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo.fecha_cierre.año"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.fecha_cierre.trimestre"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "años_have_trimestres"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo.fecha_cierre.trimestre"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.fecha_cierre.año"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "trimestres_have_años"
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo_fecha_apertura_día_in_tickets_helpdesk_completo_fecha_apertura_me": {
+			      "Binding": {
+			        "ConceptualEntity": "tickets_helpdesk_completo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "tickets_helpdesk_completo.fecha_apertura.día": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_apertura.día"
+			          }
+			        },
+			        "tickets_helpdesk_completo.fecha_apertura.me": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_apertura.me"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo.fecha_apertura.día"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.fecha_apertura.me"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "días_are_in_me"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo.fecha_apertura.me"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.fecha_apertura.día"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "me_have_días1"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo.fecha_apertura.día"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.fecha_apertura.me"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "días_have_me1"
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo_fecha_apertura_me_in_tickets_helpdesk_completo_fecha_apertura_trimestre": {
+			      "Binding": {
+			        "ConceptualEntity": "tickets_helpdesk_completo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "tickets_helpdesk_completo.fecha_apertura.me": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_apertura.me"
+			          }
+			        },
+			        "tickets_helpdesk_completo.fecha_apertura.trimestre": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_apertura.trimestre"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo.fecha_apertura.me"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.fecha_apertura.trimestre"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "me_are_in_trimestres"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo.fecha_apertura.trimestre"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.fecha_apertura.me"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "trimestres_have_me1"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo.fecha_apertura.me"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.fecha_apertura.trimestre"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "me_have_trimestres1"
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo_fecha_apertura_trimestre_in_tickets_helpdesk_completo_fecha_apertura_año": {
+			      "Binding": {
+			        "ConceptualEntity": "tickets_helpdesk_completo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "tickets_helpdesk_completo.fecha_apertura.trimestre": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_apertura.trimestre"
+			          }
+			        },
+			        "tickets_helpdesk_completo.fecha_apertura.año": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_apertura.año"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo.fecha_apertura.trimestre"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.fecha_apertura.año"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "trimestres_are_in_años1"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo.fecha_apertura.año"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.fecha_apertura.trimestre"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "años_have_trimestres1"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo.fecha_apertura.trimestre"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.fecha_apertura.año"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "trimestres_have_años1"
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo_fecha_cierre_me_has_tickets_helpdesk_completo_fecha_cierre_día": {
+			      "Binding": {
+			        "ConceptualEntity": "tickets_helpdesk_completo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "tickets_helpdesk_completo.fecha_cierre.me": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_cierre.me"
+			          }
+			        },
+			        "tickets_helpdesk_completo.fecha_cierre.día": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_cierre.día"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo.fecha_cierre.me"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.fecha_cierre.día"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "me_have_días"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo.fecha_cierre.día"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.fecha_cierre.me"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "días_have_me"
+			        },
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo.fecha_cierre.día"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.fecha_cierre.me"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "días_are_in_me1"
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo_fecha_cierre_trimestre_has_tickets_helpdesk_completo_fecha_cierre_me": {
+			      "Binding": {
+			        "ConceptualEntity": "tickets_helpdesk_completo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "tickets_helpdesk_completo.fecha_cierre.trimestre": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_cierre.trimestre"
+			          }
+			        },
+			        "tickets_helpdesk_completo.fecha_cierre.me": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_cierre.me"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo.fecha_cierre.trimestre"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.fecha_cierre.me"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "trimestres_have_me"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo.fecha_cierre.me"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.fecha_cierre.trimestre"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "me_have_trimestres"
+			        },
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo.fecha_cierre.me"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.fecha_cierre.trimestre"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "me_are_in_trimestres1"
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo_fecha_cierre_jerarquía_de_fecha_has_tickets_helpdesk_completo_fecha_cierre_día": {
+			      "Binding": {
+			        "ConceptualEntity": "tickets_helpdesk_completo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "tickets_helpdesk_completo.fecha_cierre.jerarquía_de_fecha": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_cierre.jerarquía_de_fecha"
+			          }
+			        },
+			        "tickets_helpdesk_completo.fecha_cierre.día": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_cierre.día"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo.fecha_cierre.jerarquía_de_fecha"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.fecha_cierre.día"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "jerarquía_de_fechas_have_días"
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo_fecha_cierre_jerarquía_de_fecha_has_tickets_helpdesk_completo_fecha_cierre_me": {
+			      "Binding": {
+			        "ConceptualEntity": "tickets_helpdesk_completo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "tickets_helpdesk_completo.fecha_cierre.jerarquía_de_fecha": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_cierre.jerarquía_de_fecha"
+			          }
+			        },
+			        "tickets_helpdesk_completo.fecha_cierre.me": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_cierre.me"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo.fecha_cierre.jerarquía_de_fecha"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.fecha_cierre.me"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "jerarquía_de_fechas_have_me"
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo_fecha_cierre_jerarquía_de_fecha_has_tickets_helpdesk_completo_fecha_cierre_trimestre": {
+			      "Binding": {
+			        "ConceptualEntity": "tickets_helpdesk_completo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "tickets_helpdesk_completo.fecha_cierre.jerarquía_de_fecha": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_cierre.jerarquía_de_fecha"
+			          }
+			        },
+			        "tickets_helpdesk_completo.fecha_cierre.trimestre": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_cierre.trimestre"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo.fecha_cierre.jerarquía_de_fecha"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.fecha_cierre.trimestre"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "jerarquía_de_fechas_have_trimestres"
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo_fecha_cierre_jerarquía_de_fecha_has_tickets_helpdesk_completo_fecha_cierre_año": {
+			      "Binding": {
+			        "ConceptualEntity": "tickets_helpdesk_completo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "tickets_helpdesk_completo.fecha_cierre.jerarquía_de_fecha": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_cierre.jerarquía_de_fecha"
+			          }
+			        },
+			        "tickets_helpdesk_completo.fecha_cierre.año": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_cierre.año"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo.fecha_cierre.jerarquía_de_fecha"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.fecha_cierre.año"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "jerarquía_de_fechas_have_años"
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo_fecha_cierre_has_jerarquía_de_fecha": {
+			      "Binding": {
+			        "ConceptualEntity": "tickets_helpdesk_completo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "tickets_helpdesk_completo.fecha_cierre": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_cierre"
+			          }
+			        },
+			        "tickets_helpdesk_completo.fecha_cierre.jerarquía_de_fecha": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_cierre.jerarquía_de_fecha"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo.fecha_cierre"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.fecha_cierre.jerarquía_de_fecha"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "fecha_cierres_have_jerarquía_de_fechas"
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo_fecha_apertura_jerarquía_de_fecha_has_tickets_helpdesk_completo_fecha_apertura_día": {
+			      "Binding": {
+			        "ConceptualEntity": "tickets_helpdesk_completo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "tickets_helpdesk_completo.fecha_apertura.jerarquía_de_fecha": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_apertura.jerarquía_de_fecha"
+			          }
+			        },
+			        "tickets_helpdesk_completo.fecha_apertura.día": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_apertura.día"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo.fecha_apertura.jerarquía_de_fecha"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.fecha_apertura.día"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "jerarquía_de_fechas_have_días1"
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo_fecha_apertura_jerarquía_de_fecha_has_tickets_helpdesk_completo_fecha_apertura_me": {
+			      "Binding": {
+			        "ConceptualEntity": "tickets_helpdesk_completo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "tickets_helpdesk_completo.fecha_apertura.jerarquía_de_fecha": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_apertura.jerarquía_de_fecha"
+			          }
+			        },
+			        "tickets_helpdesk_completo.fecha_apertura.me": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_apertura.me"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo.fecha_apertura.jerarquía_de_fecha"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.fecha_apertura.me"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "jerarquía_de_fechas_have_me1"
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo_fecha_apertura_jerarquía_de_fecha_has_tickets_helpdesk_completo_fecha_apertura_trimestre": {
+			      "Binding": {
+			        "ConceptualEntity": "tickets_helpdesk_completo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "tickets_helpdesk_completo.fecha_apertura.jerarquía_de_fecha": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_apertura.jerarquía_de_fecha"
+			          }
+			        },
+			        "tickets_helpdesk_completo.fecha_apertura.trimestre": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_apertura.trimestre"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo.fecha_apertura.jerarquía_de_fecha"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.fecha_apertura.trimestre"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "jerarquía_de_fechas_have_trimestres1"
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo_fecha_apertura_jerarquía_de_fecha_has_tickets_helpdesk_completo_fecha_apertura_año": {
+			      "Binding": {
+			        "ConceptualEntity": "tickets_helpdesk_completo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "tickets_helpdesk_completo.fecha_apertura.jerarquía_de_fecha": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_apertura.jerarquía_de_fecha"
+			          }
+			        },
+			        "tickets_helpdesk_completo.fecha_apertura.año": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_apertura.año"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo.fecha_apertura.jerarquía_de_fecha"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.fecha_apertura.año"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "jerarquía_de_fechas_have_años1"
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo_fecha_apertura_has_jerarquía_de_fecha": {
+			      "Binding": {
+			        "ConceptualEntity": "tickets_helpdesk_completo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "tickets_helpdesk_completo.fecha_apertura": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_apertura"
+			          }
+			        },
+			        "tickets_helpdesk_completo.fecha_apertura.jerarquía_de_fecha": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_apertura.jerarquía_de_fecha"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo.fecha_apertura"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.fecha_apertura.jerarquía_de_fecha"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "fecha_aperturas_have_jerarquía_de_fechas"
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo_has_AGENTE__copia": {
+			      "Binding": {
+			        "ConceptualEntity": "tickets_helpdesk_completo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "tickets_helpdesk_completo": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo"
+			          }
+			        },
+			        "AGENTE__copia": {
+			          "Target": {
+			            "Entity": "AGENTE__copia"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo"
+			            },
+			            "Object": {
+			              "Role": "AGENTE__copia"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "tickets_helpdesk_completos_have_AGENTE__copias"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "AGENTE__copia"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "AGENTE__copias_have_tickets_helpdesk_completos"
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo_has_objetivos_SLA": {
+			      "Binding": {
+			        "ConceptualEntity": "tickets_helpdesk_completo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "tickets_helpdesk_completo": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo"
+			          }
+			        },
+			        "objetivos_SLA": {
+			          "Target": {
+			            "Entity": "objetivos_SLA"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo"
+			            },
+			            "Object": {
+			              "Role": "objetivos_SLA"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "tickets_helpdesk_completos_have_objetivos_SLA"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "objetivos_SLA"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "objetivos_SLA_have_tickets_helpdesk_completos"
+			        }
+			      ]
+			    },
+			    "AGENTE__copia_has_nombre_visor_dinamico": {
+			      "Binding": {
+			        "ConceptualEntity": "AGENTE - copia"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "AGENTE__copia": {
+			          "Target": {
+			            "Entity": "AGENTE__copia"
+			          }
+			        },
+			        "AGENTE__copia.nombre_visor_dinamico": {
+			          "Target": {
+			            "Entity": "AGENTE__copia.nombre_visor_dinamico"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "AGENTE__copia"
+			            },
+			            "Object": {
+			              "Role": "AGENTE__copia.nombre_visor_dinamico"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "AGENTE__copias_have_nombre_visor_dinamico"
+			        }
+			      ]
+			    },
+			    "AGENTE__copia_has_URL_visor_imagen": {
+			      "Binding": {
+			        "ConceptualEntity": "AGENTE - copia"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "AGENTE__copia": {
+			          "Target": {
+			            "Entity": "AGENTE__copia"
+			          }
+			        },
+			        "AGENTE__copia.URL_visor_imagen": {
+			          "Target": {
+			            "Entity": "AGENTE__copia.URL_visor_imagen"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "AGENTE__copia"
+			            },
+			            "Object": {
+			              "Role": "AGENTE__copia.URL_visor_imagen"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "AGENTE__copias_have_URL_visor_imagen"
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo_has_objetivos_SLA_estado_SLA": {
+			      "Binding": {
+			        "ConceptualEntity": "tickets_helpdesk_completo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "tickets_helpdesk_completo": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo"
+			          }
+			        },
+			        "objetivos_SLA.estado_SLA": {
+			          "Target": {
+			            "Entity": "objetivos_SLA.estado_SLA"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo"
+			            },
+			            "Object": {
+			              "Role": "objetivos_SLA.estado_SLA"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "tickets_helpdesk_completos_have_estado_SLA"
+			        }
+			      ]
+			    },
+			    "AGENTE__copia_has_url_foto": {
+			      "Binding": {
+			        "ConceptualEntity": "AGENTE - copia"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "AGENTE__copia": {
+			          "Target": {
+			            "Entity": "AGENTE__copia"
+			          }
+			        },
+			        "AGENTE__copia.url_foto": {
+			          "Target": {
+			            "Entity": "AGENTE__copia.url_foto"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "AGENTE__copia"
+			            },
+			            "Object": {
+			              "Role": "AGENTE__copia.url_foto"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "AGENTE__copias_have_url_fotos"
+			        }
+			      ]
+			    },
+			    "AGENTE__copia_has_departamento___turno": {
+			      "Binding": {
+			        "ConceptualEntity": "AGENTE - copia"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "AGENTE__copia": {
+			          "Target": {
+			            "Entity": "AGENTE__copia"
+			          }
+			        },
+			        "AGENTE__copia.departamento___turno": {
+			          "Target": {
+			            "Entity": "AGENTE__copia.departamento___turno"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "AGENTE__copia"
+			            },
+			            "Object": {
+			              "Role": "AGENTE__copia.departamento___turno"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "AGENTE__copias_have_departamento___turnos"
+			        }
+			      ]
+			    },
+			    "AGENTE__copia_has_nombre_agente": {
+			      "Binding": {
+			        "ConceptualEntity": "AGENTE - copia"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "AGENTE__copia": {
+			          "Target": {
+			            "Entity": "AGENTE__copia"
+			          }
+			        },
+			        "AGENTE__copia.nombre_agente": {
+			          "Target": {
+			            "Entity": "AGENTE__copia.nombre_agente"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "AGENTE__copia"
+			            },
+			            "Object": {
+			              "Role": "AGENTE__copia.nombre_agente"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "AGENTE__copias_have_nombre_agentes"
+			        }
+			      ]
+			    },
+			    "AGENTE__copia_has_ID_agente": {
+			      "Binding": {
+			        "ConceptualEntity": "AGENTE - copia"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "AGENTE__copia": {
+			          "Target": {
+			            "Entity": "AGENTE__copia"
+			          }
+			        },
+			        "AGENTE__copia.ID_agente": {
+			          "Target": {
+			            "Entity": "AGENTE__copia.ID_agente"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "AGENTE__copia"
+			            },
+			            "Object": {
+			              "Role": "AGENTE__copia.ID_agente"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "AGENTE__copias_have_ID_agentes"
+			        }
+			      ]
+			    },
+			    "objetivos_SLA_has_tiempo_maximo_hora": {
+			      "Binding": {
+			        "ConceptualEntity": "Objetivos_SLA"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "objetivos_SLA": {
+			          "Target": {
+			            "Entity": "objetivos_SLA"
+			          }
+			        },
+			        "objetivos_SLA.tiempo_maximo_hora": {
+			          "Target": {
+			            "Entity": "objetivos_SLA.tiempo_maximo_hora"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "objetivos_SLA"
+			            },
+			            "Object": {
+			              "Role": "objetivos_SLA.tiempo_maximo_hora"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "objetivos_SLA_have_tiempo_maximo_horas"
+			        }
+			      ]
+			    },
+			    "objetivos_SLA_has_prioridad": {
+			      "Binding": {
+			        "ConceptualEntity": "Objetivos_SLA"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "objetivos_SLA": {
+			          "Target": {
+			            "Entity": "objetivos_SLA"
+			          }
+			        },
+			        "objetivos_SLA.prioridad": {
+			          "Target": {
+			            "Entity": "objetivos_SLA.prioridad"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "objetivos_SLA"
+			            },
+			            "Object": {
+			              "Role": "objetivos_SLA.prioridad"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "objetivos_SLA_have_prioridads"
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo_has_promedio_min_resolucion": {
+			      "Binding": {
+			        "ConceptualEntity": "tickets_helpdesk_completo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "tickets_helpdesk_completo": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo"
+			          }
+			        },
+			        "tickets_helpdesk_completo.promedio_min_resolucion": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.promedio_min_resolucion"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.promedio_min_resolucion"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "tickets_helpdesk_completos_have_promedio_min_resolucion"
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo_has_backlog_fijo": {
+			      "Binding": {
+			        "ConceptualEntity": "tickets_helpdesk_completo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "tickets_helpdesk_completo": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo"
+			          }
+			        },
+			        "tickets_helpdesk_completo.backlog_fijo": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.backlog_fijo"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.backlog_fijo"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "tickets_helpdesk_completos_have_backlog_fijo"
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo_has_satisfaccion_media": {
+			      "Binding": {
+			        "ConceptualEntity": "tickets_helpdesk_completo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "tickets_helpdesk_completo": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo"
+			          }
+			        },
+			        "tickets_helpdesk_completo.satisfaccion_media": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.satisfaccion_media"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.satisfaccion_media"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "tickets_helpdesk_completos_have_satisfaccion_media"
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo_has_tickets_resueltos": {
+			      "Binding": {
+			        "ConceptualEntity": "tickets_helpdesk_completo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "tickets_helpdesk_completo": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo"
+			          }
+			        },
+			        "tickets_helpdesk_completo.tickets_resueltos": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.tickets_resueltos"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.tickets_resueltos"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "tickets_helpdesk_completos_have__tickets_resueltos"
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo_has_satisfaccion": {
+			      "Binding": {
+			        "ConceptualEntity": "tickets_helpdesk_completo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "tickets_helpdesk_completo": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo"
+			          }
+			        },
+			        "tickets_helpdesk_completo.satisfaccion": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.satisfaccion"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.satisfaccion"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "tickets_helpdesk_completos_have_satisfaccions"
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo_has_estado": {
+			      "Binding": {
+			        "ConceptualEntity": "tickets_helpdesk_completo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "tickets_helpdesk_completo": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo"
+			          }
+			        },
+			        "tickets_helpdesk_completo.estado": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.estado"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.estado"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "tickets_helpdesk_completos_have_estado"
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo_has_categoría": {
+			      "Binding": {
+			        "ConceptualEntity": "tickets_helpdesk_completo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "tickets_helpdesk_completo": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo"
+			          }
+			        },
+			        "tickets_helpdesk_completo.categoría": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.categoría"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.categoría"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "tickets_helpdesk_completos_have_categorías"
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo_has_fecha_cierre": {
+			      "Binding": {
+			        "ConceptualEntity": "tickets_helpdesk_completo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "tickets_helpdesk_completo": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo"
+			          }
+			        },
+			        "tickets_helpdesk_completo.fecha_cierre": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_cierre"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.fecha_cierre"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "tickets_helpdesk_completos_have_fecha_cierres"
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo_has_fecha_apertura": {
+			      "Binding": {
+			        "ConceptualEntity": "tickets_helpdesk_completo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "tickets_helpdesk_completo": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo"
+			          }
+			        },
+			        "tickets_helpdesk_completo.fecha_apertura": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.fecha_apertura"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.fecha_apertura"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "tickets_helpdesk_completos_have_fecha_aperturas"
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo_has_ID_ticket": {
+			      "Binding": {
+			        "ConceptualEntity": "tickets_helpdesk_completo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "tickets_helpdesk_completo": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo"
+			          }
+			        },
+			        "tickets_helpdesk_completo.ID_ticket": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.ID_ticket"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.ID_ticket"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "tickets_helpdesk_completos_have_ID_tickets"
+			        }
+			      ]
+			    },
+			    "tickets_helpdesk_completo_has_tiempo_ticket": {
+			      "Binding": {
+			        "ConceptualEntity": "tickets_helpdesk_completo"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "tickets_helpdesk_completo": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo"
+			          }
+			        },
+			        "tickets_helpdesk_completo.tiempo_ticket": {
+			          "Target": {
+			            "Entity": "tickets_helpdesk_completo.tiempo_ticket"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "tickets_helpdesk_completo"
+			            },
+			            "Object": {
+			              "Role": "tickets_helpdesk_completo.tiempo_ticket"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "tickets_helpdesk_completos_have_tiempo_tickets"
+			        }
+			      ]
+			    }
+			  },
+			  "Agents": {
+			    "Internal": {
+			      "Version": "1.1.0"
+			    }
+			  }
+			}
+		contentType: json
+

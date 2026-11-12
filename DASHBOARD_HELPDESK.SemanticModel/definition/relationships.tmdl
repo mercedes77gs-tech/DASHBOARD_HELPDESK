@@ -1,0 +1,18 @@
+relationship 9c8b83da-660c-4e78-892e-34f1ff12d392
+	joinOnDateBehavior: datePartOnly
+	fromColumn: tickets_helpdesk_completo.Fecha_Apertura
+	toColumn: LocalDateTable_26a0d9c0-304e-4e37-aa2f-c00bb7d4917c.Date
+
+relationship 4b1229ea-8710-4b1c-88ba-909a36f80d45
+	joinOnDateBehavior: datePartOnly
+	fromColumn: tickets_helpdesk_completo.Fecha_Cierre
+	toColumn: LocalDateTable_80097fae-aa1f-4aa1-93bc-777041c1db29.Date
+
+relationship AutoDetected_9874a192-7eb7-4d6d-99cb-0bbfb3165390
+	fromColumn: tickets_helpdesk_completo.Prioridad
+	toColumn: Objetivos_SLA.Prioridad
+
+relationship 0be3ad0b-91b2-bd8e-f643-2b3eafc439e8
+	fromColumn: tickets_helpdesk_completo.ID_Agente
+	toColumn: 'AGENTE - copia'.ID_Agente
+

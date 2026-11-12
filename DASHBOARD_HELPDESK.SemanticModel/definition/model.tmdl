@@ -1,0 +1,24 @@
+model Model
+	culture: es-ES
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: es-ES
+	valueFilterBehavior: independent
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation __PBI_TimeIntelligenceEnabled = 1
+
+annotation PBI_QueryOrder = ["tickets_helpdesk_completo","Objetivos_SLA","AGENTE - copia"]
+
+annotation PBI_ProTooling = ["DaxQueryView_Desktop","DevMode"]
+
+ref table tickets_helpdesk_completo
+ref table DateTableTemplate_73ff74fd-cde4-4751-b8a6-10500b2760a3
+ref table LocalDateTable_26a0d9c0-304e-4e37-aa2f-c00bb7d4917c
+ref table LocalDateTable_80097fae-aa1f-4aa1-93bc-777041c1db29
+ref table Objetivos_SLA
+ref table 'AGENTE - copia'
+
+ref cultureInfo es-ES
+

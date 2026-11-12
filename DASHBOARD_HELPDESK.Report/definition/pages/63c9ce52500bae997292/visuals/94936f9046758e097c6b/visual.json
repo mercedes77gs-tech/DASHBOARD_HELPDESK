@@ -1,0 +1,334 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.14.0/schema.json",
+  "name": "94936f9046758e097c6b",
+  "position": {
+    "x": 1050,
+    "y": 515,
+    "z": 13001,
+    "height": 85,
+    "width": 741.66666666666674,
+    "tabOrder": 13001
+  },
+  "visual": {
+    "visualType": "cardVisual",
+    "query": {
+      "queryState": {
+        "Data": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "tickets_helpdesk_completo"
+                    }
+                  },
+                  "Property": "% Tickets Resueltos"
+                }
+              },
+              "queryRef": "tickets_helpdesk_completo.% Tickets Resueltos",
+              "nativeQueryRef": "% Tickets Resueltos"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "tickets_helpdesk_completo"
+                    }
+                  },
+                  "Property": "PROMEDIO MIN RESOLUCION"
+                }
+              },
+              "queryRef": "tickets_helpdesk_completo.PROMEDIO MIN RESOLUCION",
+              "nativeQueryRef": "Minutos Promedio Resolucion",
+              "displayName": "Minutos Promedio Resolucion"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Objetivos_SLA"
+                    }
+                  },
+                  "Property": "Estado_SLA"
+                }
+              },
+              "queryRef": "Objetivos_SLA.Estado_SLA",
+              "nativeQueryRef": "Estado SLA",
+              "displayName": "Estado SLA"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Measure": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "tickets_helpdesk_completo"
+                  }
+                },
+                "Property": "% Tickets Resueltos"
+              }
+            },
+            "direction": "Descending"
+          }
+        ],
+        "isDefaultSort": true
+      }
+    },
+    "objects": {
+      "layout": [
+        {
+          "properties": {
+            "alignment": {
+              "expr": {
+                "Literal": {
+                  "Value": "'bottom'"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "value": [
+        {
+          "properties": {
+            "fontColor": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#C44596'"
+                    }
+                  }
+                }
+              }
+            },
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "23D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "id": "default"
+          }
+        },
+        {
+          "properties": {
+            "horizontalAlignment": {
+              "expr": {
+                "Literal": {
+                  "Value": "'left'"
+                }
+              }
+            },
+            "labelPrecision": {
+              "expr": {
+                "Literal": {
+                  "Value": "2L"
+                }
+              }
+            },
+            "textWrap": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "tickets_helpdesk_completo.PROMEDIO MIN RESOLUCION"
+          }
+        },
+        {
+          "properties": {
+            "horizontalAlignment": {
+              "expr": {
+                "Literal": {
+                  "Value": "'center'"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "Objetivos_SLA.Estado_SLA"
+          }
+        }
+      ],
+      "label": [
+        {
+          "properties": {
+            "fontColor": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "ThemeDataColor": {
+                      "ColorId": 2,
+                      "Percent": 0
+                    }
+                  }
+                }
+              }
+            },
+            "position": {
+              "expr": {
+                "Literal": {
+                  "Value": "'aboveValue'"
+                }
+              }
+            },
+            "textWrap": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            },
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "15D"
+                }
+              }
+            }
+          },
+          "selector": {
+            "id": "default"
+          }
+        },
+        {
+          "properties": {
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "11D"
+                }
+              }
+            },
+            "textWrap": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "tickets_helpdesk_completo.PROMEDIO MIN RESOLUCION"
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "18D"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "visualHeader": [
+        {
+          "properties": {
+            "showTooltipButton": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            },
+            "showSmartNarrativeButton": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            },
+            "showFilterRestatementButton": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "general": [
+        {
+          "properties": {
+            "altText": {
+              "expr": {
+                "Literal": {
+                  "Value": "'el color verde muestra dentro del objetivo de la prioridad alta a 98 m / el naranja:  98,1 a 104 m / el rojo: 105 en adelante / sin selccion muestra naranja. / para categoria media/baja por defecto verde'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  },
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "00e7307693ec180bd69a",
+        "field": {
+          "Measure": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "Objetivos_SLA"
+              }
+            },
+            "Property": "Estado_SLA"
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "16c27cf7ab400eb2ec0e",
+        "field": {
+          "Measure": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "tickets_helpdesk_completo"
+              }
+            },
+            "Property": "PROMEDIO MIN RESOLUCION"
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "27af26b5802ad7bd0d5b",
+        "field": {
+          "Measure": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "tickets_helpdesk_completo"
+              }
+            },
+            "Property": "% Tickets Resueltos"
+          }
+        },
+        "type": "Advanced"
+      }
+    ]
+  }
+}

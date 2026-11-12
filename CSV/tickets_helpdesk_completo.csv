@@ -1,0 +1,1001 @@
+ID_Ticket,Fecha_Apertura,Fecha_Cierre,Categoría,Prioridad,Estado,ID_Agente,Satisfaccion
+T0001,01/07/2026 10:14,01/07/2026 21:11,Software Corporativo,Media,Cerrado,A03,4
+T0002,01/07/2026 11:24,02/07/2026 10:15,Correo Electrónico,Media,Cerrado,A02,3
+T0003,01/07/2026 15:07,01/07/2026 17:31,Despliegues/Git,Alta,Cerrado,A07,2
+T0004,01/07/2026 19:09,03/07/2026 13:43,Software Corporativo,Baja,Cerrado,A07,2
+T0005,01/07/2026 20:10,,Despliegues/Git,Baja,En Progreso,A05,
+T0006,01/07/2026 20:44,02/07/2026 03:00,Despliegues/Git,Baja,Cerrado,A06,4
+T0007,01/07/2026 21:40,02/07/2026 06:56,Telefonía,Baja,Cerrado,A07,4
+T0008,02/07/2026 05:35,02/07/2026 08:21,Correo Electrónico,Alta,Cerrado,A09,2
+T0009,02/07/2026 10:14,02/07/2026 13:04,Infraestructura/Cloud,Alta,Cerrado,A03,5
+T0010,02/07/2026 11:49,,Despliegues/Git,Media,En Progreso,A02,
+T0011,02/07/2026 13:34,,Correo Electrónico,Baja,Abierto,A03,
+T0012,02/07/2026 13:50,,Acceso/Contraseñas,Baja,En Progreso,A04,
+T0013,02/07/2026 21:03,,Infraestructura/Cloud,Baja,En Progreso,A05,
+T0014,02/07/2026 21:04,02/07/2026 22:43,Correo Electrónico,Alta,Cerrado,A06,5
+T0015,03/07/2026 09:15,04/07/2026 13:23,Hardware/Impresoras,Baja,Cerrado,A02,2
+T0016,03/07/2026 09:30,03/07/2026 13:23,Telefonía,Media,Cerrado,A03,3
+T0017,03/07/2026 09:37,03/07/2026 21:44,Telefonía,Baja,Cerrado,A04,4
+T0018,03/07/2026 10:47,03/07/2026 12:55,Acceso/Contraseñas,Alta,Cerrado,A01,5
+T0019,03/07/2026 17:38,04/07/2026 01:13,Despliegues/Git,Media,Cerrado,A07,5
+T0020,03/07/2026 18:11,03/07/2026 20:57,Infraestructura/Cloud,Alta,Cerrado,A05,3
+T0021,03/07/2026 20:37,04/07/2026 19:53,Correo Electrónico,Baja,Cerrado,A08,3
+T0022,04/07/2026 03:52,04/07/2026 04:07,Correo Electrónico,Alta,Cerrado,A09,1
+T0023,04/07/2026 20:00,04/07/2026 21:52,Software Corporativo,Alta,Cerrado,A09,5
+T0024,04/07/2026 20:46,04/07/2026 22:17,Correo Electrónico,Alta,Cerrado,A09,2
+T0025,05/07/2026 04:08,05/07/2026 06:03,Acceso/Contraseñas,Alta,Cerrado,A10,3
+T0026,05/07/2026 09:05,05/07/2026 09:42,Correo Electrónico,Alta,Cerrado,A10,1
+T0027,05/07/2026 17:49,05/07/2026 18:22,Infraestructura/Cloud,Alta,Cerrado,A10,4
+T0028,06/07/2026 08:37,06/07/2026 18:40,Telefonía,Media,Cerrado,A01,5
+T0029,06/07/2026 14:17,,Acceso/Contraseñas,Media,En Progreso,A02,
+T0030,06/07/2026 17:19,07/07/2026 22:08,Acceso/Contraseñas,Baja,Cerrado,A07,4
+T0031,07/07/2026 01:10,07/07/2026 03:14,Correo Electrónico,Alta,Cerrado,A10,4
+T0032,07/07/2026 07:45,,Despliegues/Git,Media,En Progreso,A03,
+T0033,07/07/2026 17:39,08/07/2026 09:57,Hardware/Impresoras,Media,Cerrado,A07,4
+T0034,07/07/2026 18:27,08/07/2026 13:33,Acceso/Contraseñas,Baja,Cerrado,A05,3
+T0035,08/07/2026 08:33,09/07/2026 03:44,Telefonía,Baja,Cerrado,A01,4
+T0036,08/07/2026 13:55,09/07/2026 00:48,Telefonía,Baja,Cerrado,A01,2
+T0037,08/07/2026 18:47,08/07/2026 20:20,Telefonía,Alta,Cerrado,A06,5
+T0038,08/07/2026 19:36,08/07/2026 22:59,Hardware/Impresoras,Baja,Cerrado,A05,4
+T0039,08/07/2026 23:09,,Correo Electrónico,Alta,Abierto,A10,
+T0040,09/07/2026 07:31,11/07/2026 06:09,Correo Electrónico,Baja,Cerrado,A04,4
+T0041,09/07/2026 10:26,,Correo Electrónico,Baja,En Progreso,A04,
+T0042,09/07/2026 10:38,10/07/2026 02:20,Telefonía,Baja,Cerrado,A03,3
+T0043,09/07/2026 14:05,10/07/2026 08:17,Telefonía,Media,Cerrado,A01,5
+T0044,09/07/2026 16:14,11/07/2026 14:28,Despliegues/Git,Baja,Cerrado,A05,5
+T0045,09/07/2026 19:39,,Acceso/Contraseñas,Media,Abierto,A06,
+T0046,09/07/2026 22:14,10/07/2026 00:43,Telefonía,Alta,Cerrado,A10,3
+T0047,10/07/2026 10:05,11/07/2026 08:36,Infraestructura/Cloud,Media,Cerrado,A01,5
+T0048,10/07/2026 11:01,10/07/2026 14:38,Despliegues/Git,Media,Cerrado,A03,4
+T0049,10/07/2026 12:33,10/07/2026 21:24,Software Corporativo,Media,Cerrado,A04,4
+T0050,10/07/2026 15:23,10/07/2026 16:32,Infraestructura/Cloud,Alta,Cerrado,A06,2
+T0051,10/07/2026 16:49,11/07/2026 06:28,Acceso/Contraseñas,Baja,Cerrado,A07,3
+T0052,11/07/2026 04:37,11/07/2026 05:17,Hardware/Impresoras,Alta,Cerrado,A10,4
+T0053,12/07/2026 20:10,12/07/2026 21:16,Despliegues/Git,Alta,Cerrado,A10,4
+T0054,13/07/2026 18:24,,Infraestructura/Cloud,Media,Abierto,A07,
+T0055,13/07/2026 20:07,13/07/2026 21:23,Acceso/Contraseñas,Alta,Cerrado,A07,5
+T0056,13/07/2026 20:44,13/07/2026 21:23,Telefonía,Alta,Cerrado,A07,3
+T0057,13/07/2026 22:45,13/07/2026 23:08,Correo Electrónico,Alta,Cerrado,A09,5
+T0058,14/07/2026 00:17,14/07/2026 01:42,Despliegues/Git,Alta,Cerrado,A10,4
+T0059,14/07/2026 06:28,14/07/2026 07:32,Hardware/Impresoras,Alta,Cerrado,A09,1
+T0060,14/07/2026 10:33,16/07/2026 02:04,Telefonía,Baja,Cerrado,A02,5
+T0061,14/07/2026 12:09,14/07/2026 13:38,Despliegues/Git,Alta,Cerrado,A01,1
+T0062,14/07/2026 17:28,14/07/2026 17:51,Despliegues/Git,Alta,Cerrado,A08,5
+T0063,14/07/2026 18:51,14/07/2026 22:59,Acceso/Contraseñas,Baja,Cerrado,A05,2
+T0064,14/07/2026 20:00,,Telefonía,Alta,En Progreso,A07,
+T0065,14/07/2026 20:45,14/07/2026 21:41,Software Corporativo,Alta,Cerrado,A06,4
+T0066,15/07/2026 04:09,15/07/2026 05:19,Acceso/Contraseñas,Alta,Cerrado,A09,5
+T0067,15/07/2026 04:20,15/07/2026 06:53,Acceso/Contraseñas,Alta,Cerrado,A10,1
+T0068,15/07/2026 04:27,15/07/2026 05:42,Software Corporativo,Alta,Cerrado,A09,4
+T0069,15/07/2026 06:33,15/07/2026 09:30,Correo Electrónico,Alta,Cerrado,A09,5
+T0070,15/07/2026 12:43,16/07/2026 03:17,Despliegues/Git,Media,Cerrado,A04,4
+T0071,15/07/2026 13:27,17/07/2026 11:32,Hardware/Impresoras,Baja,Cerrado,A01,4
+T0072,15/07/2026 13:49,17/07/2026 08:21,Acceso/Contraseñas,Baja,Cerrado,A02,4
+T0073,15/07/2026 14:55,,Infraestructura/Cloud,Baja,En Progreso,A02,
+T0074,15/07/2026 15:10,15/07/2026 17:49,Correo Electrónico,Alta,Cerrado,A06,3
+T0075,15/07/2026 15:55,16/07/2026 02:24,Software Corporativo,Media,Cerrado,A05,4
+T0076,15/07/2026 18:10,16/07/2026 16:45,Telefonía,Baja,Cerrado,A06,2
+T0077,16/07/2026 02:16,16/07/2026 02:41,Acceso/Contraseñas,Alta,Cerrado,A10,5
+T0078,16/07/2026 07:14,16/07/2026 09:01,Infraestructura/Cloud,Alta,Cerrado,A03,4
+T0079,16/07/2026 08:01,16/07/2026 10:23,Hardware/Impresoras,Alta,Cerrado,A04,2
+T0080,16/07/2026 13:00,16/07/2026 14:57,Telefonía,Alta,Cerrado,A01,4
+T0081,16/07/2026 13:59,,Acceso/Contraseñas,Alta,En Progreso,A02,
+T0082,16/07/2026 14:57,16/07/2026 21:58,Correo Electrónico,Media,Cerrado,A04,4
+T0083,16/07/2026 23:13,17/07/2026 00:01,Infraestructura/Cloud,Alta,Cerrado,A09,3
+T0084,17/07/2026 09:19,17/07/2026 23:11,Telefonía,Media,Cerrado,A04,2
+T0085,17/07/2026 17:09,19/07/2026 07:00,Acceso/Contraseñas,Baja,Cerrado,A06,1
+T0086,17/07/2026 17:20,18/07/2026 14:40,Infraestructura/Cloud,Media,Cerrado,A08,2
+T0087,17/07/2026 21:09,18/07/2026 14:04,Telefonía,Baja,Cerrado,A08,5
+T0088,17/07/2026 22:53,17/07/2026 23:27,Software Corporativo,Alta,Cerrado,A09,5
+T0089,18/07/2026 02:18,18/07/2026 04:16,Correo Electrónico,Alta,Cerrado,A10,4
+T0090,18/07/2026 09:32,18/07/2026 11:16,Software Corporativo,Alta,Cerrado,A10,5
+T0091,19/07/2026 07:24,19/07/2026 08:46,Telefonía,Alta,Cerrado,A10,5
+T0092,19/07/2026 19:59,19/07/2026 20:34,Acceso/Contraseñas,Alta,Cerrado,A09,4
+T0093,19/07/2026 20:36,19/07/2026 21:39,Infraestructura/Cloud,Alta,Cerrado,A09,5
+T0094,20/07/2026 07:01,,Infraestructura/Cloud,Alta,En Progreso,A03,
+T0095,20/07/2026 08:11,20/07/2026 12:00,Correo Electrónico,Baja,Cerrado,A01,1
+T0096,20/07/2026 08:41,21/07/2026 14:40,Hardware/Impresoras,Baja,Cerrado,A04,2
+T0097,20/07/2026 09:08,,Software Corporativo,Baja,En Progreso,A02,
+T0098,20/07/2026 09:25,21/07/2026 13:25,Despliegues/Git,Baja,Cerrado,A03,5
+T0099,20/07/2026 10:17,21/07/2026 10:03,Telefonía,Media,Cerrado,A02,5
+T0100,20/07/2026 10:59,20/07/2026 12:27,Software Corporativo,Alta,Cerrado,A01,2
+T0101,20/07/2026 14:12,20/07/2026 16:51,Acceso/Contraseñas,Media,Cerrado,A01,5
+T0102,20/07/2026 21:20,21/07/2026 08:32,Despliegues/Git,Media,Cerrado,A05,5
+T0103,20/07/2026 21:35,20/07/2026 23:29,Despliegues/Git,Alta,Cerrado,A06,5
+T0104,20/07/2026 23:06,21/07/2026 00:00,Infraestructura/Cloud,Alta,Cerrado,A09,3
+T0105,21/07/2026 00:03,21/07/2026 00:24,Telefonía,Alta,Cerrado,A10,3
+T0106,21/07/2026 13:44,23/07/2026 02:35,Telefonía,Baja,Cerrado,A01,3
+T0107,21/07/2026 14:37,21/07/2026 15:14,Correo Electrónico,Alta,Cerrado,A03,5
+T0108,21/07/2026 17:02,22/07/2026 13:39,Infraestructura/Cloud,Media,Cerrado,A06,5
+T0109,21/07/2026 18:31,22/07/2026 09:01,Telefonía,Media,Cerrado,A06,5
+T0110,21/07/2026 18:43,21/07/2026 19:47,Software Corporativo,Alta,Cerrado,A05,4
+T0111,21/07/2026 20:28,22/07/2026 16:31,Despliegues/Git,Media,Cerrado,A06,3
+T0112,22/07/2026 08:09,23/07/2026 14:44,Infraestructura/Cloud,Baja,Cerrado,A02,5
+T0113,22/07/2026 12:47,22/07/2026 15:06,Software Corporativo,Alta,Cerrado,A03,4
+T0114,22/07/2026 13:48,23/07/2026 02:31,Software Corporativo,Media,Cerrado,A04,5
+T0115,22/07/2026 18:04,23/07/2026 02:02,Infraestructura/Cloud,Media,Cerrado,A06,4
+T0116,22/07/2026 18:55,,Hardware/Impresoras,Alta,En Progreso,A05,
+T0117,22/07/2026 20:58,24/07/2026 19:13,Hardware/Impresoras,Baja,Cerrado,A07,5
+T0118,22/07/2026 21:25,23/07/2026 00:50,Acceso/Contraseñas,Media,Cerrado,A06,4
+T0119,22/07/2026 22:52,,Despliegues/Git,Alta,Abierto,A09,
+T0120,23/07/2026 00:42,23/07/2026 02:36,Acceso/Contraseñas,Alta,Cerrado,A09,2
+T0121,23/07/2026 10:56,23/07/2026 11:22,Acceso/Contraseñas,Alta,Cerrado,A04,3
+T0122,23/07/2026 12:14,23/07/2026 12:29,Telefonía,Alta,Cerrado,A04,4
+T0123,23/07/2026 13:50,24/07/2026 06:52,Hardware/Impresoras,Baja,Cerrado,A03,4
+T0124,23/07/2026 17:18,23/07/2026 20:00,Correo Electrónico,Alta,Cerrado,A07,5
+T0125,23/07/2026 18:53,23/07/2026 21:04,Correo Electrónico,Alta,Cerrado,A05,3
+T0126,23/07/2026 19:50,24/07/2026 15:06,Correo Electrónico,Baja,Cerrado,A06,5
+T0127,23/07/2026 20:54,,Telefonía,Baja,En Progreso,A08,
+T0128,24/07/2026 08:57,24/07/2026 10:21,Correo Electrónico,Media,Cerrado,A04,4
+T0129,24/07/2026 13:00,,Hardware/Impresoras,Alta,Abierto,A03,
+T0130,24/07/2026 14:00,25/07/2026 07:10,Despliegues/Git,Baja,Cerrado,A01,5
+T0131,24/07/2026 15:34,,Hardware/Impresoras,Baja,En Progreso,A05,
+T0132,24/07/2026 16:48,25/07/2026 07:12,Software Corporativo,Media,Cerrado,A06,2
+T0133,24/07/2026 17:13,25/07/2026 00:59,Acceso/Contraseñas,Media,Cerrado,A07,5
+T0134,24/07/2026 17:38,,Despliegues/Git,Media,En Progreso,A08,
+T0135,24/07/2026 18:59,24/07/2026 23:17,Correo Electrónico,Media,Cerrado,A07,5
+T0136,24/07/2026 19:01,25/07/2026 15:36,Infraestructura/Cloud,Media,Cerrado,A05,4
+T0137,24/07/2026 20:06,25/07/2026 06:36,Despliegues/Git,Media,Cerrado,A06,3
+T0138,25/07/2026 12:16,25/07/2026 14:56,Hardware/Impresoras,Alta,Cerrado,A10,5
+T0139,26/07/2026 12:25,26/07/2026 14:26,Hardware/Impresoras,Alta,Cerrado,A10,5
+T0140,26/07/2026 14:47,26/07/2026 15:31,Hardware/Impresoras,Alta,Cerrado,A10,5
+T0141,26/07/2026 21:33,27/07/2026 00:08,Infraestructura/Cloud,Alta,Cerrado,A10,2
+T0142,26/07/2026 21:33,26/07/2026 21:52,Acceso/Contraseñas,Alta,Cerrado,A10,2
+T0143,27/07/2026 03:01,27/07/2026 05:01,Infraestructura/Cloud,Alta,Cerrado,A10,4
+T0144,27/07/2026 04:27,27/07/2026 05:33,Hardware/Impresoras,Alta,Cerrado,A10,5
+T0145,27/07/2026 08:45,28/07/2026 15:08,Despliegues/Git,Baja,Cerrado,A01,2
+T0146,27/07/2026 11:48,27/07/2026 22:16,Hardware/Impresoras,Media,Cerrado,A01,4
+T0147,27/07/2026 12:17,,Telefonía,Media,Abierto,A02,
+T0148,27/07/2026 15:33,27/07/2026 16:48,Correo Electrónico,Media,Cerrado,A07,4
+T0149,27/07/2026 18:30,28/07/2026 17:11,Infraestructura/Cloud,Media,Cerrado,A08,4
+T0150,27/07/2026 20:52,28/07/2026 09:17,Acceso/Contraseñas,Baja,Cerrado,A06,3
+T0151,27/07/2026 20:59,29/07/2026 00:19,Acceso/Contraseñas,Baja,Cerrado,A07,4
+T0152,28/07/2026 03:24,28/07/2026 05:45,Hardware/Impresoras,Alta,Cerrado,A09,5
+T0153,28/07/2026 07:17,,Acceso/Contraseñas,Media,En Progreso,A04,
+T0154,28/07/2026 07:26,28/07/2026 09:09,Hardware/Impresoras,Alta,Cerrado,A03,1
+T0155,28/07/2026 12:15,28/07/2026 20:18,Software Corporativo,Media,Cerrado,A03,4
+T0156,28/07/2026 14:14,28/07/2026 21:13,Acceso/Contraseñas,Media,Cerrado,A02,4
+T0157,28/07/2026 14:53,28/07/2026 17:16,Despliegues/Git,Alta,Cerrado,A04,5
+T0158,28/07/2026 15:30,29/07/2026 09:18,Telefonía,Baja,Cerrado,A07,2
+T0159,28/07/2026 19:36,30/07/2026 16:49,Acceso/Contraseñas,Baja,Cerrado,A08,1
+T0160,28/07/2026 19:48,28/07/2026 20:36,Acceso/Contraseñas,Alta,Cerrado,A05,5
+T0161,28/07/2026 21:47,29/07/2026 21:29,Despliegues/Git,Media,Cerrado,A07,5
+T0162,29/07/2026 09:02,,Hardware/Impresoras,Media,En Progreso,A03,
+T0163,29/07/2026 09:32,30/07/2026 14:20,Telefonía,Baja,Cerrado,A03,4
+T0164,29/07/2026 14:41,,Hardware/Impresoras,Baja,En Progreso,A04,
+T0165,29/07/2026 17:09,,Despliegues/Git,Media,En Progreso,A07,
+T0166,29/07/2026 17:47,30/07/2026 14:17,Telefonía,Media,Cerrado,A06,3
+T0167,29/07/2026 19:18,30/07/2026 01:58,Hardware/Impresoras,Media,Cerrado,A07,4
+T0168,29/07/2026 20:30,29/07/2026 22:10,Telefonía,Alta,Cerrado,A08,4
+T0169,29/07/2026 20:40,30/07/2026 17:47,Software Corporativo,Media,Cerrado,A07,3
+T0170,30/07/2026 07:50,31/07/2026 11:18,Infraestructura/Cloud,Baja,Cerrado,A01,5
+T0171,30/07/2026 11:05,,Acceso/Contraseñas,Alta,En Progreso,A02,
+T0172,30/07/2026 12:10,30/07/2026 15:57,Telefonía,Baja,Cerrado,A02,3
+T0173,30/07/2026 14:12,,Hardware/Impresoras,Media,Abierto,A03,
+T0174,30/07/2026 17:06,31/07/2026 10:29,Telefonía,Baja,Cerrado,A07,5
+T0175,31/07/2026 07:15,31/07/2026 09:39,Infraestructura/Cloud,Alta,Cerrado,A01,5
+T0176,31/07/2026 13:07,,Infraestructura/Cloud,Baja,En Progreso,A03,
+T0177,31/07/2026 13:41,31/07/2026 14:43,Acceso/Contraseñas,Alta,Cerrado,A01,5
+T0178,31/07/2026 14:01,31/07/2026 19:09,Despliegues/Git,Media,Cerrado,A02,1
+T0179,31/07/2026 14:32,31/07/2026 14:57,Despliegues/Git,Alta,Cerrado,A03,5
+T0180,31/07/2026 16:32,31/07/2026 19:57,Infraestructura/Cloud,Media,Cerrado,A05,2
+T0181,31/07/2026 17:09,,Telefonía,Media,En Progreso,A08,
+T0182,31/07/2026 19:10,,Telefonía,Alta,En Progreso,A05,
+T0183,31/07/2026 22:50,01/08/2026 00:57,Correo Electrónico,Alta,Cerrado,A10,5
+T0184,01/08/2026 10:01,01/08/2026 12:36,Infraestructura/Cloud,Alta,Cerrado,A10,4
+T0185,02/08/2026 02:50,02/08/2026 04:29,Acceso/Contraseñas,Alta,Cerrado,A10,1
+T0186,02/08/2026 10:22,02/08/2026 11:51,Telefonía,Alta,Cerrado,A09,4
+T0187,02/08/2026 18:18,02/08/2026 21:05,Correo Electrónico,Alta,Cerrado,A09,3
+T0188,03/08/2026 08:21,04/08/2026 06:01,Acceso/Contraseñas,Baja,Cerrado,A03,3
+T0189,03/08/2026 13:40,04/08/2026 00:16,Acceso/Contraseñas,Baja,Cerrado,A02,5
+T0190,03/08/2026 16:19,04/08/2026 03:57,Hardware/Impresoras,Baja,Cerrado,A07,3
+T0191,03/08/2026 17:40,04/08/2026 12:41,Acceso/Contraseñas,Baja,Cerrado,A06,5
+T0192,03/08/2026 21:00,04/08/2026 13:46,Correo Electrónico,Media,Cerrado,A06,5
+T0193,03/08/2026 23:37,04/08/2026 00:15,Acceso/Contraseñas,Alta,Cerrado,A09,4
+T0194,04/08/2026 02:34,04/08/2026 03:30,Software Corporativo,Alta,Cerrado,A09,4
+T0195,04/08/2026 02:47,04/08/2026 04:32,Despliegues/Git,Alta,Cerrado,A09,5
+T0196,04/08/2026 09:14,04/08/2026 10:52,Hardware/Impresoras,Alta,Cerrado,A04,2
+T0197,04/08/2026 12:40,04/08/2026 14:25,Telefonía,Alta,Cerrado,A03,4
+T0198,04/08/2026 15:44,04/08/2026 16:56,Despliegues/Git,Alta,Cerrado,A08,3
+T0199,04/08/2026 19:35,04/08/2026 20:16,Telefonía,Alta,Cerrado,A05,5
+T0200,05/08/2026 07:38,06/08/2026 09:01,Telefonía,Baja,Cerrado,A03,2
+T0201,05/08/2026 08:00,05/08/2026 10:53,Telefonía,Media,Cerrado,A02,3
+T0202,05/08/2026 09:29,05/08/2026 10:23,Acceso/Contraseñas,Alta,Cerrado,A02,5
+T0203,05/08/2026 16:53,05/08/2026 19:27,Acceso/Contraseñas,Alta,Cerrado,A05,4
+T0204,05/08/2026 17:05,06/08/2026 06:47,Correo Electrónico,Media,Cerrado,A08,5
+T0205,06/08/2026 07:02,06/08/2026 12:04,Correo Electrónico,Media,Cerrado,A02,4
+T0206,06/08/2026 09:14,06/08/2026 20:58,Software Corporativo,Media,Cerrado,A01,3
+T0207,06/08/2026 12:08,06/08/2026 21:40,Telefonía,Baja,Cerrado,A01,4
+T0208,06/08/2026 12:54,07/08/2026 01:15,Acceso/Contraseñas,Media,Cerrado,A02,5
+T0209,06/08/2026 13:49,06/08/2026 14:18,Despliegues/Git,Alta,Cerrado,A02,3
+T0210,06/08/2026 15:48,,Software Corporativo,Media,En Progreso,A05,
+T0211,06/08/2026 20:41,,Correo Electrónico,Media,Abierto,A06,
+T0212,06/08/2026 23:42,07/08/2026 02:31,Acceso/Contraseñas,Alta,Cerrado,A10,5
+T0213,07/08/2026 04:59,07/08/2026 07:28,Telefonía,Alta,Cerrado,A10,4
+T0214,07/08/2026 14:02,09/08/2026 10:43,Infraestructura/Cloud,Baja,Cerrado,A01,3
+T0215,07/08/2026 14:47,09/08/2026 01:10,Hardware/Impresoras,Baja,Cerrado,A01,4
+T0216,07/08/2026 18:12,08/08/2026 12:39,Infraestructura/Cloud,Media,Cerrado,A08,2
+T0217,08/08/2026 20:53,08/08/2026 23:01,Despliegues/Git,Alta,Cerrado,A09,1
+T0218,09/08/2026 18:01,09/08/2026 18:45,Infraestructura/Cloud,Alta,Cerrado,A10,4
+T0219,10/08/2026 14:14,12/08/2026 11:10,Acceso/Contraseñas,Baja,Cerrado,A01,4
+T0220,10/08/2026 16:22,,Infraestructura/Cloud,Alta,En Progreso,A07,
+T0221,10/08/2026 17:19,10/08/2026 18:07,Infraestructura/Cloud,Alta,Cerrado,A07,1
+T0222,10/08/2026 18:06,10/08/2026 20:10,Hardware/Impresoras,Alta,Cerrado,A07,5
+T0223,10/08/2026 21:36,11/08/2026 17:37,Software Corporativo,Baja,Cerrado,A07,4
+T0224,11/08/2026 05:33,11/08/2026 06:53,Software Corporativo,Alta,Cerrado,A09,3
+T0225,11/08/2026 07:26,11/08/2026 08:08,Telefonía,Alta,Cerrado,A02,5
+T0226,11/08/2026 07:32,11/08/2026 10:05,Despliegues/Git,Alta,Cerrado,A01,4
+T0227,11/08/2026 10:18,11/08/2026 18:45,Telefonía,Media,Cerrado,A03,1
+T0228,11/08/2026 12:08,11/08/2026 14:16,Software Corporativo,Baja,Cerrado,A04,1
+T0229,11/08/2026 13:41,12/08/2026 10:15,Hardware/Impresoras,Media,Cerrado,A03,4
+T0230,11/08/2026 18:38,13/08/2026 06:25,Despliegues/Git,Baja,Cerrado,A07,4
+T0231,11/08/2026 20:09,12/08/2026 00:26,Software Corporativo,Media,Cerrado,A07,4
+T0232,12/08/2026 07:47,12/08/2026 09:36,Telefonía,Alta,Cerrado,A04,5
+T0233,12/08/2026 10:35,,Infraestructura/Cloud,Baja,En Progreso,A03,
+T0234,12/08/2026 11:43,12/08/2026 13:22,Hardware/Impresoras,Alta,Cerrado,A01,2
+T0235,12/08/2026 12:38,12/08/2026 13:28,Infraestructura/Cloud,Alta,Cerrado,A02,4
+T0236,12/08/2026 13:12,13/08/2026 10:52,Infraestructura/Cloud,Media,Cerrado,A02,5
+T0237,12/08/2026 20:02,13/08/2026 14:23,Despliegues/Git,Baja,Cerrado,A07,4
+T0238,13/08/2026 14:11,,Infraestructura/Cloud,Baja,En Progreso,A01,
+T0239,13/08/2026 15:57,14/08/2026 09:38,Software Corporativo,Media,Cerrado,A07,5
+T0240,13/08/2026 17:05,14/08/2026 11:36,Despliegues/Git,Media,Cerrado,A06,5
+T0241,14/08/2026 14:29,,Correo Electrónico,Media,En Progreso,A01,
+T0242,14/08/2026 21:19,,Acceso/Contraseñas,Alta,Abierto,A08,
+T0243,14/08/2026 21:32,14/08/2026 23:32,Correo Electrónico,Alta,Cerrado,A05,2
+T0244,17/08/2026 04:52,17/08/2026 07:08,Hardware/Impresoras,Alta,Cerrado,A09,4
+T0245,17/08/2026 07:52,17/08/2026 08:55,Telefonía,Alta,Cerrado,A04,2
+T0246,17/08/2026 08:19,,Correo Electrónico,Alta,En Progreso,A01,
+T0247,17/08/2026 14:51,17/08/2026 15:25,Telefonía,Alta,Cerrado,A04,4
+T0248,17/08/2026 16:30,18/08/2026 08:23,Acceso/Contraseñas,Media,Cerrado,A07,4
+T0249,17/08/2026 21:29,18/08/2026 06:04,Telefonía,Media,Cerrado,A06,2
+T0250,18/08/2026 04:39,18/08/2026 07:32,Telefonía,Alta,Cerrado,A10,5
+T0251,18/08/2026 07:07,19/08/2026 05:13,Despliegues/Git,Media,Cerrado,A02,5
+T0252,18/08/2026 07:19,18/08/2026 09:20,Despliegues/Git,Alta,Cerrado,A02,3
+T0253,18/08/2026 10:56,18/08/2026 15:37,Acceso/Contraseñas,Media,Cerrado,A01,3
+T0254,18/08/2026 12:25,18/08/2026 16:33,Telefonía,Media,Cerrado,A02,4
+T0255,18/08/2026 14:53,19/08/2026 14:01,Correo Electrónico,Media,Cerrado,A01,5
+T0256,18/08/2026 16:07,18/08/2026 19:52,Software Corporativo,Baja,Cerrado,A06,5
+T0257,18/08/2026 21:30,19/08/2026 07:50,Software Corporativo,Baja,Cerrado,A08,3
+T0258,19/08/2026 07:37,20/08/2026 00:29,Infraestructura/Cloud,Media,Cerrado,A04,2
+T0259,19/08/2026 10:08,,Acceso/Contraseñas,Baja,En Progreso,A04,
+T0260,19/08/2026 12:27,19/08/2026 18:44,Software Corporativo,Media,Cerrado,A01,5
+T0261,19/08/2026 16:45,19/08/2026 20:10,Hardware/Impresoras,Media,Cerrado,A05,5
+T0262,20/08/2026 07:55,20/08/2026 10:23,Hardware/Impresoras,Alta,Cerrado,A02,4
+T0263,20/08/2026 10:36,20/08/2026 20:23,Correo Electrónico,Media,Cerrado,A03,5
+T0264,20/08/2026 15:20,21/08/2026 11:33,Software Corporativo,Baja,Cerrado,A08,1
+T0265,20/08/2026 16:12,21/08/2026 11:53,Correo Electrónico,Media,Cerrado,A05,3
+T0266,20/08/2026 16:56,21/08/2026 20:33,Acceso/Contraseñas,Baja,Cerrado,A05,5
+T0267,20/08/2026 19:26,20/08/2026 19:49,Acceso/Contraseñas,Alta,Cerrado,A07,1
+T0268,20/08/2026 19:58,20/08/2026 22:49,Correo Electrónico,Alta,Cerrado,A07,5
+T0269,20/08/2026 19:59,22/08/2026 03:15,Hardware/Impresoras,Baja,Cerrado,A06,4
+T0270,20/08/2026 21:45,,Acceso/Contraseñas,Alta,En Progreso,A08,
+T0271,20/08/2026 23:55,21/08/2026 02:04,Software Corporativo,Alta,Cerrado,A10,5
+T0272,21/08/2026 08:45,21/08/2026 09:31,Correo Electrónico,Alta,Cerrado,A01,1
+T0273,21/08/2026 12:52,22/08/2026 07:54,Software Corporativo,Baja,Cerrado,A02,3
+T0274,21/08/2026 19:00,21/08/2026 21:05,Despliegues/Git,Alta,Cerrado,A05,4
+T0275,22/08/2026 09:12,22/08/2026 11:21,Telefonía,Alta,Cerrado,A09,4
+T0276,22/08/2026 15:23,22/08/2026 16:49,Telefonía,Alta,Cerrado,A09,2
+T0277,22/08/2026 16:15,22/08/2026 17:39,Infraestructura/Cloud,Alta,Cerrado,A09,4
+T0278,22/08/2026 17:50,22/08/2026 20:20,Hardware/Impresoras,Alta,Cerrado,A09,5
+T0279,23/08/2026 01:16,23/08/2026 03:13,Correo Electrónico,Alta,Cerrado,A10,3
+T0280,24/08/2026 07:10,26/08/2026 00:28,Despliegues/Git,Baja,Cerrado,A04,4
+T0281,24/08/2026 07:18,24/08/2026 08:21,Infraestructura/Cloud,Alta,Cerrado,A03,5
+T0282,24/08/2026 10:30,24/08/2026 11:43,Infraestructura/Cloud,Alta,Cerrado,A04,5
+T0283,24/08/2026 15:30,24/08/2026 22:03,Hardware/Impresoras,Media,Cerrado,A07,5
+T0284,24/08/2026 18:44,24/08/2026 21:17,Hardware/Impresoras,Baja,Cerrado,A07,5
+T0285,24/08/2026 19:24,24/08/2026 21:49,Despliegues/Git,Alta,Cerrado,A07,5
+T0286,24/08/2026 21:33,25/08/2026 17:36,Infraestructura/Cloud,Baja,Cerrado,A08,3
+T0287,25/08/2026 07:49,,Hardware/Impresoras,Alta,En Progreso,A01,
+T0288,25/08/2026 08:29,26/08/2026 06:32,Despliegues/Git,Media,Cerrado,A02,3
+T0289,25/08/2026 08:50,26/08/2026 17:35,Infraestructura/Cloud,Baja,Cerrado,A01,5
+T0290,25/08/2026 11:41,26/08/2026 07:44,Despliegues/Git,Baja,Cerrado,A01,3
+T0291,25/08/2026 13:22,,Software Corporativo,Baja,En Progreso,A03,
+T0292,25/08/2026 15:02,26/08/2026 23:00,Despliegues/Git,Baja,Cerrado,A05,5
+T0293,25/08/2026 15:07,25/08/2026 18:55,Telefonía,Media,Cerrado,A08,4
+T0294,25/08/2026 16:03,25/08/2026 18:08,Hardware/Impresoras,Alta,Cerrado,A05,3
+T0295,26/08/2026 09:36,,Acceso/Contraseñas,Media,Abierto,A01,
+T0296,26/08/2026 13:25,27/08/2026 07:50,Hardware/Impresoras,Baja,Cerrado,A04,4
+T0297,26/08/2026 14:34,27/08/2026 08:25,Telefonía,Baja,Cerrado,A02,3
+T0298,26/08/2026 15:40,26/08/2026 20:59,Despliegues/Git,Media,Cerrado,A05,4
+T0299,27/08/2026 07:41,28/08/2026 11:36,Hardware/Impresoras,Baja,Cerrado,A02,4
+T0300,27/08/2026 07:52,27/08/2026 08:09,Infraestructura/Cloud,Alta,Cerrado,A01,4
+T0301,27/08/2026 09:23,,Despliegues/Git,Media,Abierto,A04,
+T0302,27/08/2026 09:37,27/08/2026 11:49,Telefonía,Media,Cerrado,A03,4
+T0303,28/08/2026 00:45,28/08/2026 03:12,Infraestructura/Cloud,Alta,Cerrado,A09,3
+T0304,28/08/2026 07:25,29/08/2026 08:10,Infraestructura/Cloud,Baja,Cerrado,A03,5
+T0305,28/08/2026 07:36,28/08/2026 09:34,Telefonía,Alta,Cerrado,A03,4
+T0306,28/08/2026 07:39,,Acceso/Contraseñas,Baja,En Progreso,A02,
+T0307,28/08/2026 10:14,28/08/2026 23:10,Infraestructura/Cloud,Baja,Cerrado,A01,2
+T0308,28/08/2026 11:22,28/08/2026 18:04,Correo Electrónico,Media,Cerrado,A03,4
+T0309,28/08/2026 15:23,29/08/2026 08:12,Despliegues/Git,Media,Cerrado,A07,5
+T0310,28/08/2026 15:51,29/08/2026 21:34,Acceso/Contraseñas,Baja,Cerrado,A08,5
+T0311,28/08/2026 16:40,28/08/2026 18:05,Acceso/Contraseñas,Alta,Cerrado,A05,5
+T0312,28/08/2026 22:45,29/08/2026 01:00,Infraestructura/Cloud,Alta,Cerrado,A09,4
+T0313,29/08/2026 03:55,29/08/2026 04:46,Software Corporativo,Alta,Cerrado,A09,4
+T0314,29/08/2026 07:10,29/08/2026 09:35,Telefonía,Alta,Cerrado,A10,5
+T0315,30/08/2026 09:32,,Telefonía,Alta,En Progreso,A09,
+T0316,31/08/2026 06:33,31/08/2026 08:51,Telefonía,Alta,Cerrado,A09,5
+T0317,31/08/2026 10:33,01/09/2026 05:48,Infraestructura/Cloud,Media,Cerrado,A01,5
+T0318,31/08/2026 11:03,31/08/2026 13:44,Correo Electrónico,Alta,Cerrado,A04,5
+T0319,31/08/2026 11:49,01/09/2026 10:51,Despliegues/Git,Baja,Cerrado,A03,4
+T0320,31/08/2026 14:11,31/08/2026 21:39,Correo Electrónico,Baja,Cerrado,A04,3
+T0321,31/08/2026 15:38,31/08/2026 16:23,Despliegues/Git,Alta,Cerrado,A05,5
+T0322,31/08/2026 21:01,31/08/2026 23:01,Software Corporativo,Alta,Cerrado,A05,5
+T0323,31/08/2026 21:10,31/08/2026 22:02,Software Corporativo,Alta,Cerrado,A05,5
+T0324,01/09/2026 06:18,,Acceso/Contraseñas,Alta,Abierto,A09,
+T0325,01/09/2026 07:21,01/09/2026 10:21,Correo Electrónico,Alta,Cerrado,A03,5
+T0326,01/09/2026 07:24,02/09/2026 21:44,Correo Electrónico,Baja,Cerrado,A02,5
+T0327,01/09/2026 08:57,02/09/2026 07:07,Telefonía,Baja,Cerrado,A01,5
+T0328,01/09/2026 10:25,01/09/2026 10:55,Despliegues/Git,Alta,Cerrado,A04,4
+T0329,01/09/2026 10:50,02/09/2026 09:58,Software Corporativo,Media,Cerrado,A03,5
+T0330,01/09/2026 11:35,01/09/2026 13:28,Despliegues/Git,Alta,Cerrado,A02,5
+T0331,01/09/2026 14:07,03/09/2026 07:23,Acceso/Contraseñas,Baja,Cerrado,A03,4
+T0332,01/09/2026 20:20,02/09/2026 14:53,Infraestructura/Cloud,Media,Cerrado,A07,1
+T0333,01/09/2026 20:27,,Telefonía,Media,En Progreso,A08,
+T0334,02/09/2026 07:53,03/09/2026 14:02,Correo Electrónico,Baja,Cerrado,A02,2
+T0335,02/09/2026 08:26,02/09/2026 11:58,Hardware/Impresoras,Media,Cerrado,A03,2
+T0336,02/09/2026 09:01,02/09/2026 11:11,Software Corporativo,Alta,Cerrado,A01,4
+T0337,02/09/2026 13:16,02/09/2026 15:28,Infraestructura/Cloud,Alta,Cerrado,A01,4
+T0338,02/09/2026 15:37,03/09/2026 17:54,Acceso/Contraseñas,Baja,Cerrado,A06,5
+T0339,02/09/2026 17:07,04/09/2026 02:18,Software Corporativo,Baja,Cerrado,A08,4
+T0340,02/09/2026 19:11,02/09/2026 20:03,Telefonía,Alta,Cerrado,A06,1
+T0341,02/09/2026 19:13,03/09/2026 12:52,Acceso/Contraseñas,Media,Cerrado,A08,2
+T0342,03/09/2026 07:00,04/09/2026 22:49,Infraestructura/Cloud,Baja,Cerrado,A02,3
+T0343,03/09/2026 09:11,03/09/2026 20:36,Acceso/Contraseñas,Media,Cerrado,A04,4
+T0344,03/09/2026 14:09,03/09/2026 15:18,Hardware/Impresoras,Media,Cerrado,A02,4
+T0345,04/09/2026 02:05,04/09/2026 03:17,Hardware/Impresoras,Alta,Cerrado,A09,3
+T0346,04/09/2026 07:11,04/09/2026 08:36,Infraestructura/Cloud,Alta,Cerrado,A03,5
+T0347,04/09/2026 08:38,05/09/2026 11:08,Telefonía,Baja,Cerrado,A01,3
+T0348,04/09/2026 13:25,06/09/2026 11:12,Software Corporativo,Baja,Cerrado,A01,3
+T0349,04/09/2026 16:54,04/09/2026 17:25,Telefonía,Alta,Cerrado,A05,5
+T0350,04/09/2026 20:01,05/09/2026 09:33,Telefonía,Media,Cerrado,A06,2
+T0351,06/09/2026 00:10,06/09/2026 00:54,Correo Electrónico,Alta,Cerrado,A10,5
+T0352,07/09/2026 06:15,07/09/2026 07:41,Software Corporativo,Alta,Cerrado,A09,2
+T0353,07/09/2026 07:33,07/09/2026 16:25,Hardware/Impresoras,Media,Cerrado,A04,5
+T0354,07/09/2026 09:23,07/09/2026 12:14,Telefonía,Alta,Cerrado,A02,5
+T0355,07/09/2026 12:37,08/09/2026 10:14,Hardware/Impresoras,Media,Cerrado,A03,5
+T0356,08/09/2026 07:00,09/09/2026 02:27,Telefonía,Media,Cerrado,A03,2
+T0357,08/09/2026 09:26,08/09/2026 18:46,Infraestructura/Cloud,Media,Cerrado,A04,5
+T0358,08/09/2026 09:32,09/09/2026 16:10,Software Corporativo,Baja,Cerrado,A02,4
+T0359,08/09/2026 09:34,09/09/2026 08:27,Telefonía,Media,Cerrado,A01,5
+T0360,08/09/2026 12:02,09/09/2026 07:44,Hardware/Impresoras,Media,Cerrado,A04,4
+T0361,08/09/2026 13:10,,Correo Electrónico,Media,En Progreso,A02,
+T0362,08/09/2026 13:26,08/09/2026 15:30,Correo Electrónico,Alta,Cerrado,A01,3
+T0363,08/09/2026 15:32,08/09/2026 20:42,Despliegues/Git,Media,Cerrado,A05,2
+T0364,08/09/2026 16:40,08/09/2026 17:09,Infraestructura/Cloud,Alta,Cerrado,A07,4
+T0365,08/09/2026 19:38,10/09/2026 05:24,Correo Electrónico,Baja,Cerrado,A06,5
+T0366,08/09/2026 20:03,09/09/2026 13:04,Software Corporativo,Media,Cerrado,A08,3
+T0367,09/09/2026 01:35,09/09/2026 04:30,Hardware/Impresoras,Alta,Cerrado,A09,4
+T0368,09/09/2026 09:28,09/09/2026 10:19,Telefonía,Alta,Cerrado,A01,5
+T0369,09/09/2026 09:49,,Software Corporativo,Baja,Abierto,A03,
+T0370,09/09/2026 16:19,11/09/2026 02:05,Software Corporativo,Baja,Cerrado,A05,4
+T0371,10/09/2026 00:38,10/09/2026 03:10,Software Corporativo,Alta,Cerrado,A10,5
+T0372,10/09/2026 08:57,11/09/2026 00:35,Despliegues/Git,Media,Cerrado,A01,3
+T0373,10/09/2026 09:47,,Software Corporativo,Alta,Abierto,A02,
+T0374,10/09/2026 13:39,12/09/2026 05:13,Correo Electrónico,Baja,Cerrado,A04,5
+T0375,10/09/2026 16:42,11/09/2026 19:13,Software Corporativo,Baja,Cerrado,A05,5
+T0376,10/09/2026 17:32,11/09/2026 09:32,Hardware/Impresoras,Media,Cerrado,A06,4
+T0377,10/09/2026 17:41,12/09/2026 07:02,Software Corporativo,Baja,Cerrado,A06,2
+T0378,10/09/2026 18:07,12/09/2026 09:12,Telefonía,Baja,Cerrado,A07,3
+T0379,10/09/2026 18:36,11/09/2026 07:22,Correo Electrónico,Media,Cerrado,A08,5
+T0380,10/09/2026 21:19,,Telefonía,Media,Abierto,A08,
+T0381,10/09/2026 22:59,11/09/2026 01:01,Acceso/Contraseñas,Alta,Cerrado,A10,3
+T0382,11/09/2026 07:49,11/09/2026 10:05,Software Corporativo,Alta,Cerrado,A04,4
+T0383,11/09/2026 07:56,11/09/2026 08:35,Infraestructura/Cloud,Alta,Cerrado,A04,4
+T0384,11/09/2026 11:42,11/09/2026 12:14,Infraestructura/Cloud,Alta,Cerrado,A03,5
+T0385,11/09/2026 12:33,12/09/2026 11:07,Software Corporativo,Media,Cerrado,A02,5
+T0386,11/09/2026 16:22,,Acceso/Contraseñas,Alta,En Progreso,A06,
+T0387,11/09/2026 18:53,13/09/2026 01:00,Despliegues/Git,Baja,Cerrado,A08,4
+T0388,13/09/2026 02:08,,Software Corporativo,Alta,En Progreso,A09,
+T0389,13/09/2026 06:31,13/09/2026 09:10,Telefonía,Alta,Cerrado,A09,5
+T0390,13/09/2026 10:23,13/09/2026 10:41,Despliegues/Git,Alta,Cerrado,A09,2
+T0391,14/09/2026 08:38,,Acceso/Contraseñas,Media,En Progreso,A04,
+T0392,14/09/2026 09:59,16/09/2026 04:44,Despliegues/Git,Baja,Cerrado,A03,5
+T0393,14/09/2026 10:09,15/09/2026 09:13,Correo Electrónico,Media,Cerrado,A02,5
+T0394,14/09/2026 11:13,15/09/2026 06:39,Infraestructura/Cloud,Media,Cerrado,A04,4
+T0395,14/09/2026 13:36,14/09/2026 19:22,Infraestructura/Cloud,Media,Cerrado,A03,3
+T0396,14/09/2026 17:27,15/09/2026 17:03,Despliegues/Git,Baja,Cerrado,A08,5
+T0397,15/09/2026 04:49,15/09/2026 06:08,Despliegues/Git,Alta,Cerrado,A10,3
+T0398,15/09/2026 11:43,16/09/2026 01:11,Hardware/Impresoras,Media,Cerrado,A03,3
+T0399,15/09/2026 13:39,15/09/2026 15:49,Acceso/Contraseñas,Alta,Cerrado,A04,4
+T0400,15/09/2026 15:40,17/09/2026 13:45,Correo Electrónico,Baja,Cerrado,A06,5
+T0401,15/09/2026 16:49,16/09/2026 23:56,Hardware/Impresoras,Baja,Cerrado,A08,5
+T0402,15/09/2026 19:36,16/09/2026 01:15,Infraestructura/Cloud,Media,Cerrado,A05,1
+T0403,16/09/2026 02:34,,Telefonía,Alta,Abierto,A09,
+T0404,16/09/2026 07:25,16/09/2026 08:38,Infraestructura/Cloud,Alta,Cerrado,A02,4
+T0405,16/09/2026 07:55,17/09/2026 06:31,Telefonía,Media,Cerrado,A03,4
+T0406,16/09/2026 10:17,17/09/2026 05:27,Infraestructura/Cloud,Media,Cerrado,A04,5
+T0407,16/09/2026 12:21,17/09/2026 20:00,Hardware/Impresoras,Baja,Cerrado,A03,3
+T0408,16/09/2026 17:18,17/09/2026 10:37,Infraestructura/Cloud,Media,Cerrado,A08,3
+T0409,16/09/2026 18:13,,Infraestructura/Cloud,Media,En Progreso,A05,
+T0410,16/09/2026 18:50,16/09/2026 21:50,Telefonía,Alta,Cerrado,A07,5
+T0411,17/09/2026 05:59,17/09/2026 07:38,Acceso/Contraseñas,Alta,Cerrado,A10,4
+T0412,17/09/2026 07:18,19/09/2026 00:13,Software Corporativo,Baja,Cerrado,A03,4
+T0413,17/09/2026 07:56,17/09/2026 18:53,Acceso/Contraseñas,Baja,Cerrado,A01,5
+T0414,17/09/2026 09:43,17/09/2026 12:30,Acceso/Contraseñas,Alta,Cerrado,A01,5
+T0415,17/09/2026 17:06,18/09/2026 15:43,Infraestructura/Cloud,Media,Cerrado,A06,5
+T0416,17/09/2026 17:33,17/09/2026 19:00,Hardware/Impresoras,Alta,Cerrado,A05,2
+T0417,17/09/2026 21:04,17/09/2026 21:59,Hardware/Impresoras,Alta,Cerrado,A07,1
+T0418,18/09/2026 05:22,18/09/2026 06:07,Hardware/Impresoras,Alta,Cerrado,A09,4
+T0419,18/09/2026 05:37,18/09/2026 06:15,Despliegues/Git,Alta,Cerrado,A09,4
+T0420,18/09/2026 07:02,18/09/2026 13:31,Infraestructura/Cloud,Media,Cerrado,A03,5
+T0421,18/09/2026 16:12,18/09/2026 21:45,Infraestructura/Cloud,Media,Cerrado,A07,5
+T0422,18/09/2026 18:21,19/09/2026 08:21,Infraestructura/Cloud,Media,Cerrado,A05,5
+T0423,18/09/2026 18:38,,Telefonía,Baja,Abierto,A07,
+T0424,18/09/2026 20:34,19/09/2026 19:18,Software Corporativo,Media,Cerrado,A07,2
+T0425,19/09/2026 01:25,19/09/2026 03:25,Despliegues/Git,Alta,Cerrado,A10,3
+T0426,19/09/2026 05:13,19/09/2026 06:19,Telefonía,Alta,Cerrado,A09,5
+T0427,19/09/2026 08:46,19/09/2026 10:18,Software Corporativo,Alta,Cerrado,A09,5
+T0428,19/09/2026 13:33,19/09/2026 14:08,Acceso/Contraseñas,Alta,Cerrado,A10,5
+T0429,21/09/2026 07:04,21/09/2026 15:30,Infraestructura/Cloud,Media,Cerrado,A04,4
+T0430,21/09/2026 08:03,21/09/2026 09:27,Telefonía,Alta,Cerrado,A04,5
+T0431,21/09/2026 11:34,21/09/2026 12:49,Software Corporativo,Alta,Cerrado,A01,3
+T0432,21/09/2026 13:21,21/09/2026 14:39,Acceso/Contraseñas,Alta,Cerrado,A01,5
+T0433,21/09/2026 15:55,22/09/2026 11:45,Correo Electrónico,Media,Cerrado,A06,3
+T0434,21/09/2026 18:17,21/09/2026 19:55,Infraestructura/Cloud,Alta,Cerrado,A07,5
+T0435,22/09/2026 05:28,22/09/2026 06:49,Hardware/Impresoras,Alta,Cerrado,A10,5
+T0436,22/09/2026 08:36,22/09/2026 10:05,Acceso/Contraseñas,Alta,Cerrado,A04,5
+T0437,22/09/2026 10:57,22/09/2026 15:40,Hardware/Impresoras,Baja,Cerrado,A02,2
+T0438,22/09/2026 11:25,22/09/2026 19:42,Despliegues/Git,Media,Cerrado,A03,4
+T0439,22/09/2026 12:16,23/09/2026 21:13,Infraestructura/Cloud,Baja,Cerrado,A04,5
+T0440,22/09/2026 12:52,22/09/2026 15:28,Hardware/Impresoras,Alta,Cerrado,A01,3
+T0441,22/09/2026 14:41,22/09/2026 17:15,Despliegues/Git,Alta,Cerrado,A03,5
+T0442,22/09/2026 14:49,22/09/2026 22:40,Hardware/Impresoras,Media,Cerrado,A02,4
+T0443,22/09/2026 17:47,22/09/2026 19:55,Acceso/Contraseñas,Alta,Cerrado,A06,3
+T0444,23/09/2026 08:00,,Hardware/Impresoras,Baja,En Progreso,A04,
+T0445,23/09/2026 09:12,23/09/2026 11:18,Telefonía,Alta,Cerrado,A03,4
+T0446,23/09/2026 11:10,24/09/2026 10:40,Correo Electrónico,Baja,Cerrado,A02,2
+T0447,23/09/2026 12:07,23/09/2026 12:57,Correo Electrónico,Alta,Cerrado,A02,5
+T0448,23/09/2026 13:31,23/09/2026 14:55,Telefonía,Alta,Cerrado,A02,4
+T0449,23/09/2026 13:55,,Despliegues/Git,Media,En Progreso,A03,
+T0450,23/09/2026 15:08,25/09/2026 14:47,Correo Electrónico,Baja,Cerrado,A08,4
+T0451,23/09/2026 15:51,23/09/2026 19:25,Telefonía,Media,Cerrado,A06,3
+T0452,23/09/2026 19:57,23/09/2026 22:35,Telefonía,Alta,Cerrado,A08,4
+T0453,24/09/2026 00:06,,Infraestructura/Cloud,Alta,En Progreso,A09,
+T0454,24/09/2026 07:51,24/09/2026 18:30,Despliegues/Git,Media,Cerrado,A02,5
+T0455,24/09/2026 08:06,,Acceso/Contraseñas,Media,En Progreso,A04,
+T0456,24/09/2026 10:04,26/09/2026 07:59,Hardware/Impresoras,Baja,Cerrado,A02,5
+T0457,24/09/2026 11:00,24/09/2026 11:53,Telefonía,Alta,Cerrado,A03,2
+T0458,24/09/2026 12:44,,Software Corporativo,Baja,Abierto,A03,
+T0459,24/09/2026 13:13,,Hardware/Impresoras,Media,Abierto,A01,
+T0460,24/09/2026 18:36,24/09/2026 20:39,Correo Electrónico,Alta,Cerrado,A07,4
+T0461,24/09/2026 20:56,,Correo Electrónico,Baja,Abierto,A07,
+T0462,25/09/2026 03:32,25/09/2026 03:59,Acceso/Contraseñas,Alta,Cerrado,A09,5
+T0463,25/09/2026 09:00,25/09/2026 21:07,Acceso/Contraseñas,Media,Cerrado,A03,5
+T0464,25/09/2026 09:07,25/09/2026 11:53,Infraestructura/Cloud,Alta,Cerrado,A02,4
+T0465,25/09/2026 14:06,,Correo Electrónico,Alta,En Progreso,A02,
+T0466,25/09/2026 14:14,26/09/2026 09:25,Acceso/Contraseñas,Baja,Cerrado,A03,5
+T0467,25/09/2026 15:32,27/09/2026 08:09,Hardware/Impresoras,Baja,Cerrado,A06,4
+T0468,25/09/2026 17:33,26/09/2026 11:40,Despliegues/Git,Baja,Cerrado,A07,4
+T0469,25/09/2026 18:50,26/09/2026 11:39,Hardware/Impresoras,Media,Cerrado,A05,4
+T0470,26/09/2026 16:04,26/09/2026 16:24,Hardware/Impresoras,Alta,Cerrado,A09,4
+T0471,26/09/2026 18:04,26/09/2026 18:38,Despliegues/Git,Alta,Cerrado,A10,4
+T0472,26/09/2026 23:49,,Hardware/Impresoras,Alta,En Progreso,A09,
+T0473,27/09/2026 07:08,27/09/2026 09:55,Acceso/Contraseñas,Alta,Cerrado,A09,1
+T0474,27/09/2026 16:35,27/09/2026 18:07,Hardware/Impresoras,Alta,Cerrado,A09,3
+T0475,27/09/2026 17:43,27/09/2026 20:34,Correo Electrónico,Alta,Cerrado,A09,5
+T0476,27/09/2026 18:18,27/09/2026 18:37,Telefonía,Alta,Cerrado,A10,4
+T0477,27/09/2026 23:11,28/09/2026 00:48,Correo Electrónico,Alta,Cerrado,A10,1
+T0478,28/09/2026 02:24,28/09/2026 05:02,Infraestructura/Cloud,Alta,Cerrado,A09,4
+T0479,28/09/2026 06:09,28/09/2026 07:41,Hardware/Impresoras,Alta,Cerrado,A09,2
+T0480,28/09/2026 12:17,28/09/2026 15:10,Hardware/Impresoras,Alta,Cerrado,A04,5
+T0481,28/09/2026 16:57,29/09/2026 19:38,Correo Electrónico,Baja,Cerrado,A08,4
+T0482,28/09/2026 19:20,29/09/2026 17:49,Correo Electrónico,Baja,Cerrado,A06,3
+T0483,28/09/2026 20:00,30/09/2026 11:34,Infraestructura/Cloud,Baja,Cerrado,A06,5
+T0484,28/09/2026 21:45,28/09/2026 22:58,Software Corporativo,Alta,Cerrado,A08,5
+T0485,29/09/2026 10:56,,Despliegues/Git,Baja,En Progreso,A03,
+T0486,29/09/2026 15:47,01/10/2026 14:46,Acceso/Contraseñas,Baja,Cerrado,A05,3
+T0487,29/09/2026 22:19,30/09/2026 00:33,Hardware/Impresoras,Alta,Cerrado,A10,4
+T0488,30/09/2026 07:47,30/09/2026 09:31,Acceso/Contraseñas,Alta,Cerrado,A01,5
+T0489,30/09/2026 10:45,30/09/2026 13:44,Hardware/Impresoras,Alta,Cerrado,A04,4
+T0490,30/09/2026 10:58,,Hardware/Impresoras,Baja,En Progreso,A04,
+T0491,30/09/2026 11:26,30/09/2026 15:51,Infraestructura/Cloud,Media,Cerrado,A04,3
+T0492,30/09/2026 12:02,30/09/2026 22:56,Infraestructura/Cloud,Baja,Cerrado,A01,5
+T0493,30/09/2026 12:56,01/10/2026 18:58,Despliegues/Git,Baja,Cerrado,A04,4
+T0494,30/09/2026 13:50,30/09/2026 14:58,Infraestructura/Cloud,Alta,Cerrado,A01,4
+T0495,01/10/2026 00:17,01/10/2026 02:16,Acceso/Contraseñas,Alta,Cerrado,A09,3
+T0496,01/10/2026 08:58,02/10/2026 06:29,Hardware/Impresoras,Media,Cerrado,A04,4
+T0497,01/10/2026 10:45,01/10/2026 14:55,Correo Electrónico,Media,Cerrado,A04,5
+T0498,01/10/2026 11:04,02/10/2026 03:30,Software Corporativo,Media,Cerrado,A01,5
+T0499,01/10/2026 11:28,01/10/2026 16:11,Hardware/Impresoras,Media,Cerrado,A04,4
+T0500,01/10/2026 21:22,,Correo Electrónico,Media,Abierto,A08,
+T0501,02/10/2026 12:39,03/10/2026 15:37,Hardware/Impresoras,Baja,Cerrado,A02,4
+T0502,02/10/2026 16:01,04/10/2026 10:21,Correo Electrónico,Baja,Cerrado,A08,4
+T0503,02/10/2026 17:52,02/10/2026 21:47,Infraestructura/Cloud,Media,Cerrado,A05,5
+T0504,02/10/2026 20:11,03/10/2026 03:38,Infraestructura/Cloud,Baja,Cerrado,A07,5
+T0505,03/10/2026 02:55,03/10/2026 04:29,Telefonía,Alta,Cerrado,A09,4
+T0506,03/10/2026 11:16,03/10/2026 12:06,Acceso/Contraseñas,Alta,Cerrado,A10,5
+T0507,03/10/2026 15:56,03/10/2026 18:13,Hardware/Impresoras,Alta,Cerrado,A10,4
+T0508,03/10/2026 17:33,03/10/2026 20:03,Telefonía,Alta,Cerrado,A10,3
+T0509,04/10/2026 22:18,05/10/2026 00:54,Acceso/Contraseñas,Alta,Cerrado,A10,5
+T0510,04/10/2026 22:41,04/10/2026 23:15,Acceso/Contraseñas,Alta,Cerrado,A09,3
+T0511,05/10/2026 09:22,06/10/2026 07:10,Software Corporativo,Media,Cerrado,A04,5
+T0512,05/10/2026 13:27,,Acceso/Contraseñas,Alta,En Progreso,A02,
+T0513,05/10/2026 18:35,05/10/2026 20:36,Correo Electrónico,Alta,Cerrado,A07,3
+T0514,05/10/2026 20:23,06/10/2026 10:48,Hardware/Impresoras,Media,Cerrado,A07,4
+T0515,06/10/2026 02:31,06/10/2026 04:11,Telefonía,Alta,Cerrado,A09,3
+T0516,06/10/2026 08:00,07/10/2026 12:25,Despliegues/Git,Baja,Cerrado,A03,2
+T0517,06/10/2026 08:55,07/10/2026 04:06,Correo Electrónico,Media,Cerrado,A01,2
+T0518,06/10/2026 12:50,,Correo Electrónico,Baja,En Progreso,A03,
+T0519,06/10/2026 17:56,08/10/2026 10:04,Despliegues/Git,Baja,Cerrado,A06,4
+T0520,06/10/2026 18:47,07/10/2026 08:30,Correo Electrónico,Media,Cerrado,A08,5
+T0521,06/10/2026 21:19,,Infraestructura/Cloud,Media,Abierto,A08,
+T0522,06/10/2026 21:43,07/10/2026 00:22,Correo Electrónico,Media,Cerrado,A06,4
+T0523,07/10/2026 09:19,08/10/2026 06:29,Telefonía,Media,Cerrado,A01,1
+T0524,07/10/2026 09:50,08/10/2026 23:37,Acceso/Contraseñas,Baja,Cerrado,A04,2
+T0525,07/10/2026 10:27,07/10/2026 12:25,Acceso/Contraseñas,Alta,Cerrado,A02,3
+T0526,07/10/2026 11:06,07/10/2026 13:30,Despliegues/Git,Media,Cerrado,A04,4
+T0527,07/10/2026 14:00,07/10/2026 16:53,Correo Electrónico,Alta,Cerrado,A01,5
+T0528,07/10/2026 14:13,08/10/2026 12:35,Telefonía,Baja,Cerrado,A03,3
+T0529,08/10/2026 02:41,08/10/2026 03:57,Despliegues/Git,Alta,Cerrado,A10,3
+T0530,08/10/2026 07:21,08/10/2026 16:43,Correo Electrónico,Baja,Cerrado,A03,5
+T0531,08/10/2026 08:32,08/10/2026 11:01,Software Corporativo,Media,Cerrado,A02,3
+T0532,08/10/2026 18:41,09/10/2026 05:12,Hardware/Impresoras,Media,Cerrado,A05,4
+T0533,08/10/2026 20:08,09/10/2026 04:26,Infraestructura/Cloud,Media,Cerrado,A06,4
+T0534,08/10/2026 20:35,09/10/2026 08:18,Acceso/Contraseñas,Media,Cerrado,A06,5
+T0535,09/10/2026 12:53,09/10/2026 15:53,Despliegues/Git,Alta,Cerrado,A02,5
+T0536,09/10/2026 13:51,10/10/2026 00:08,Despliegues/Git,Baja,Cerrado,A04,4
+T0537,09/10/2026 22:06,10/10/2026 00:43,Acceso/Contraseñas,Alta,Cerrado,A10,3
+T0538,09/10/2026 22:15,09/10/2026 23:50,Acceso/Contraseñas,Alta,Cerrado,A09,4
+T0539,10/10/2026 12:05,10/10/2026 12:34,Despliegues/Git,Alta,Cerrado,A10,5
+T0540,11/10/2026 17:24,11/10/2026 17:58,Telefonía,Alta,Cerrado,A09,2
+T0541,12/10/2026 10:39,12/10/2026 11:09,Software Corporativo,Alta,Cerrado,A04,4
+T0542,12/10/2026 14:13,12/10/2026 18:23,Infraestructura/Cloud,Media,Cerrado,A01,3
+T0543,12/10/2026 14:57,,Correo Electrónico,Baja,En Progreso,A03,
+T0544,12/10/2026 16:20,12/10/2026 22:09,Infraestructura/Cloud,Baja,Cerrado,A08,5
+T0545,12/10/2026 17:11,13/10/2026 16:48,Infraestructura/Cloud,Media,Cerrado,A05,5
+T0546,12/10/2026 18:19,12/10/2026 20:06,Despliegues/Git,Alta,Cerrado,A08,3
+T0547,13/10/2026 00:19,13/10/2026 00:57,Infraestructura/Cloud,Alta,Cerrado,A10,5
+T0548,13/10/2026 09:33,13/10/2026 11:17,Hardware/Impresoras,Alta,Cerrado,A02,2
+T0549,13/10/2026 10:55,14/10/2026 09:26,Hardware/Impresoras,Baja,Cerrado,A04,2
+T0550,13/10/2026 11:08,13/10/2026 14:04,Despliegues/Git,Alta,Cerrado,A01,3
+T0551,13/10/2026 13:22,14/10/2026 13:02,Telefonía,Media,Cerrado,A02,2
+T0552,13/10/2026 19:27,14/10/2026 17:11,Infraestructura/Cloud,Baja,Cerrado,A06,5
+T0553,13/10/2026 21:10,13/10/2026 22:25,Correo Electrónico,Alta,Cerrado,A07,5
+T0554,14/10/2026 08:45,15/10/2026 00:05,Despliegues/Git,Media,Cerrado,A04,5
+T0555,14/10/2026 11:03,14/10/2026 11:28,Correo Electrónico,Alta,Cerrado,A03,3
+T0556,14/10/2026 13:58,14/10/2026 15:12,Acceso/Contraseñas,Media,Cerrado,A04,4
+T0557,14/10/2026 15:36,,Acceso/Contraseñas,Media,En Progreso,A05,
+T0558,14/10/2026 17:40,15/10/2026 00:59,Infraestructura/Cloud,Baja,Cerrado,A06,3
+T0559,14/10/2026 19:36,15/10/2026 16:35,Acceso/Contraseñas,Baja,Cerrado,A08,3
+T0560,15/10/2026 07:39,15/10/2026 20:23,Infraestructura/Cloud,Media,Cerrado,A01,5
+T0561,15/10/2026 13:49,15/10/2026 15:18,Software Corporativo,Alta,Cerrado,A04,4
+T0562,15/10/2026 15:37,15/10/2026 16:47,Infraestructura/Cloud,Alta,Cerrado,A08,3
+T0563,15/10/2026 16:13,16/10/2026 02:53,Hardware/Impresoras,Media,Cerrado,A07,4
+T0564,15/10/2026 19:38,15/10/2026 20:46,Software Corporativo,Alta,Cerrado,A05,4
+T0565,15/10/2026 20:17,,Correo Electrónico,Media,Abierto,A07,
+T0566,16/10/2026 05:05,16/10/2026 07:13,Infraestructura/Cloud,Alta,Cerrado,A10,3
+T0567,16/10/2026 07:53,16/10/2026 21:16,Infraestructura/Cloud,Media,Cerrado,A04,2
+T0568,16/10/2026 09:20,17/10/2026 06:19,Acceso/Contraseñas,Media,Cerrado,A04,4
+T0569,16/10/2026 10:12,17/10/2026 18:56,Software Corporativo,Baja,Cerrado,A03,3
+T0570,16/10/2026 10:50,,Infraestructura/Cloud,Alta,En Progreso,A03,
+T0571,16/10/2026 11:36,18/10/2026 04:41,Telefonía,Baja,Cerrado,A02,4
+T0572,18/10/2026 18:56,18/10/2026 20:21,Software Corporativo,Alta,Cerrado,A09,5
+T0573,19/10/2026 11:03,19/10/2026 13:36,Correo Electrónico,Alta,Cerrado,A04,4
+T0574,19/10/2026 11:21,20/10/2026 12:25,Correo Electrónico,Baja,Cerrado,A01,2
+T0575,19/10/2026 12:41,20/10/2026 00:03,Software Corporativo,Media,Cerrado,A03,4
+T0576,19/10/2026 19:22,19/10/2026 21:53,Despliegues/Git,Alta,Cerrado,A08,5
+T0577,20/10/2026 08:38,20/10/2026 13:18,Hardware/Impresoras,Baja,Cerrado,A02,2
+T0578,20/10/2026 09:45,20/10/2026 11:53,Acceso/Contraseñas,Alta,Cerrado,A02,5
+T0579,20/10/2026 11:54,21/10/2026 21:30,Acceso/Contraseñas,Baja,Cerrado,A04,5
+T0580,20/10/2026 13:28,20/10/2026 20:45,Infraestructura/Cloud,Media,Cerrado,A02,5
+T0581,20/10/2026 18:49,20/10/2026 21:10,Hardware/Impresoras,Alta,Cerrado,A06,5
+T0582,20/10/2026 20:12,21/10/2026 04:28,Telefonía,Media,Cerrado,A06,3
+T0583,20/10/2026 20:52,20/10/2026 22:29,Hardware/Impresoras,Alta,Cerrado,A07,5
+T0584,21/10/2026 05:21,21/10/2026 05:48,Infraestructura/Cloud,Alta,Cerrado,A10,5
+T0585,21/10/2026 06:34,21/10/2026 09:14,Correo Electrónico,Alta,Cerrado,A10,3
+T0586,21/10/2026 08:37,21/10/2026 22:05,Despliegues/Git,Media,Cerrado,A02,4
+T0587,21/10/2026 08:57,21/10/2026 10:35,Infraestructura/Cloud,Alta,Cerrado,A03,4
+T0588,21/10/2026 16:27,,Telefonía,Media,En Progreso,A05,
+T0589,21/10/2026 17:15,22/10/2026 11:04,Correo Electrónico,Media,Cerrado,A06,2
+T0590,21/10/2026 17:24,22/10/2026 10:12,Telefonía,Media,Cerrado,A06,3
+T0591,21/10/2026 17:46,22/10/2026 17:40,Acceso/Contraseñas,Media,Cerrado,A08,4
+T0592,21/10/2026 19:41,22/10/2026 05:32,Software Corporativo,Media,Cerrado,A05,5
+T0593,21/10/2026 19:57,21/10/2026 21:18,Correo Electrónico,Alta,Cerrado,A08,4
+T0594,22/10/2026 09:35,24/10/2026 08:25,Telefonía,Baja,Cerrado,A02,5
+T0595,22/10/2026 10:00,22/10/2026 10:16,Software Corporativo,Alta,Cerrado,A01,2
+T0596,22/10/2026 12:22,22/10/2026 13:33,Hardware/Impresoras,Alta,Cerrado,A04,1
+T0597,22/10/2026 16:01,,Correo Electrónico,Media,En Progreso,A07,
+T0598,22/10/2026 16:23,23/10/2026 08:46,Correo Electrónico,Media,Cerrado,A06,5
+T0599,22/10/2026 19:19,22/10/2026 19:51,Telefonía,Alta,Cerrado,A06,2
+T0600,22/10/2026 21:47,24/10/2026 00:41,Software Corporativo,Baja,Cerrado,A06,1
+T0601,22/10/2026 23:47,,Software Corporativo,Alta,En Progreso,A10,
+T0602,23/10/2026 11:36,,Software Corporativo,Media,Abierto,A04,
+T0603,23/10/2026 12:10,25/10/2026 10:34,Correo Electrónico,Baja,Cerrado,A02,3
+T0604,23/10/2026 12:37,23/10/2026 21:17,Software Corporativo,Media,Cerrado,A02,4
+T0605,23/10/2026 15:04,24/10/2026 03:07,Infraestructura/Cloud,Media,Cerrado,A06,4
+T0606,23/10/2026 16:22,24/10/2026 03:23,Hardware/Impresoras,Baja,Cerrado,A05,5
+T0607,23/10/2026 17:17,23/10/2026 17:37,Hardware/Impresoras,Alta,Cerrado,A06,5
+T0608,23/10/2026 21:22,23/10/2026 23:59,Software Corporativo,Alta,Cerrado,A06,4
+T0609,24/10/2026 04:24,,Acceso/Contraseñas,Alta,En Progreso,A09,
+T0610,24/10/2026 18:36,24/10/2026 21:29,Acceso/Contraseñas,Alta,Cerrado,A09,5
+T0611,24/10/2026 19:28,24/10/2026 21:42,Telefonía,Alta,Cerrado,A10,4
+T0612,24/10/2026 21:39,25/10/2026 00:20,Acceso/Contraseñas,Alta,Cerrado,A10,4
+T0613,26/10/2026 08:42,,Telefonía,Media,En Progreso,A02,
+T0614,26/10/2026 09:33,28/10/2026 06:05,Acceso/Contraseñas,Baja,Cerrado,A03,5
+T0615,26/10/2026 10:09,26/10/2026 11:11,Correo Electrónico,Alta,Cerrado,A04,2
+T0616,26/10/2026 10:28,26/10/2026 22:16,Telefonía,Media,Cerrado,A03,5
+T0617,26/10/2026 17:51,,Telefonía,Media,En Progreso,A06,
+T0618,26/10/2026 17:54,28/10/2026 14:12,Correo Electrónico,Baja,Cerrado,A05,5
+T0619,26/10/2026 19:14,,Software Corporativo,Media,En Progreso,A06,
+T0620,27/10/2026 02:52,27/10/2026 05:49,Infraestructura/Cloud,Alta,Cerrado,A09,4
+T0621,27/10/2026 12:12,27/10/2026 21:36,Despliegues/Git,Baja,Cerrado,A04,5
+T0622,27/10/2026 13:04,27/10/2026 17:25,Telefonía,Media,Cerrado,A03,5
+T0623,27/10/2026 13:34,27/10/2026 14:48,Software Corporativo,Alta,Cerrado,A03,4
+T0624,27/10/2026 15:53,28/10/2026 05:10,Acceso/Contraseñas,Media,Cerrado,A06,2
+T0625,27/10/2026 17:55,,Despliegues/Git,Alta,Abierto,A06,
+T0626,27/10/2026 20:08,,Hardware/Impresoras,Baja,Abierto,A06,
+T0627,28/10/2026 00:58,28/10/2026 01:15,Telefonía,Alta,Cerrado,A10,4
+T0628,28/10/2026 07:26,28/10/2026 10:12,Hardware/Impresoras,Alta,Cerrado,A01,2
+T0629,28/10/2026 09:24,28/10/2026 12:21,Infraestructura/Cloud,Media,Cerrado,A04,5
+T0630,28/10/2026 11:32,29/10/2026 00:28,Infraestructura/Cloud,Media,Cerrado,A04,4
+T0631,28/10/2026 14:59,28/10/2026 18:40,Hardware/Impresoras,Media,Cerrado,A02,4
+T0632,28/10/2026 17:06,28/10/2026 19:31,Infraestructura/Cloud,Alta,Cerrado,A07,4
+T0633,28/10/2026 18:53,30/10/2026 18:41,Despliegues/Git,Baja,Cerrado,A07,3
+T0634,28/10/2026 19:10,28/10/2026 20:24,Hardware/Impresoras,Alta,Cerrado,A07,4
+T0635,28/10/2026 19:19,28/10/2026 21:19,Correo Electrónico,Alta,Cerrado,A06,2
+T0636,28/10/2026 21:34,29/10/2026 19:11,Infraestructura/Cloud,Baja,Cerrado,A05,1
+T0637,29/10/2026 01:12,29/10/2026 04:11,Despliegues/Git,Alta,Cerrado,A09,5
+T0638,29/10/2026 01:43,29/10/2026 02:16,Telefonía,Alta,Cerrado,A09,5
+T0639,29/10/2026 06:36,,Infraestructura/Cloud,Alta,Abierto,A09,
+T0640,29/10/2026 08:10,29/10/2026 08:41,Telefonía,Alta,Cerrado,A03,4
+T0641,29/10/2026 08:19,29/10/2026 14:04,Acceso/Contraseñas,Baja,Cerrado,A02,4
+T0642,29/10/2026 10:40,,Correo Electrónico,Baja,En Progreso,A02,
+T0643,29/10/2026 12:29,,Despliegues/Git,Baja,En Progreso,A02,
+T0644,29/10/2026 13:50,,Despliegues/Git,Alta,En Progreso,A03,
+T0645,29/10/2026 17:49,29/10/2026 19:31,Correo Electrónico,Alta,Cerrado,A07,5
+T0646,30/10/2026 09:19,30/10/2026 21:49,Despliegues/Git,Baja,Cerrado,A01,3
+T0647,30/10/2026 10:06,30/10/2026 11:11,Despliegues/Git,Alta,Cerrado,A03,5
+T0648,30/10/2026 10:36,01/11/2026 02:05,Software Corporativo,Baja,Cerrado,A04,5
+T0649,30/10/2026 11:31,30/10/2026 12:45,Acceso/Contraseñas,Alta,Cerrado,A03,4
+T0650,30/10/2026 15:36,31/10/2026 05:14,Infraestructura/Cloud,Baja,Cerrado,A06,5
+T0651,30/10/2026 18:55,31/10/2026 14:57,Acceso/Contraseñas,Media,Cerrado,A07,5
+T0652,30/10/2026 19:02,01/11/2026 05:02,Software Corporativo,Baja,Cerrado,A07,4
+T0653,30/10/2026 21:57,31/10/2026 00:11,Infraestructura/Cloud,Alta,Cerrado,A06,5
+T0654,31/10/2026 09:27,31/10/2026 11:55,Telefonía,Alta,Cerrado,A10,5
+T0655,02/11/2026 03:56,02/11/2026 04:46,Infraestructura/Cloud,Alta,Cerrado,A10,3
+T0656,02/11/2026 08:50,03/11/2026 06:47,Correo Electrónico,Media,Cerrado,A04,2
+T0657,02/11/2026 11:44,04/11/2026 08:37,Telefonía,Baja,Cerrado,A02,5
+T0658,02/11/2026 12:43,,Correo Electrónico,Baja,En Progreso,A04,
+T0659,02/11/2026 13:43,,Correo Electrónico,Media,Abierto,A04,
+T0660,02/11/2026 14:30,03/11/2026 03:31,Infraestructura/Cloud,Media,Cerrado,A04,5
+T0661,02/11/2026 15:02,02/11/2026 15:36,Infraestructura/Cloud,Alta,Cerrado,A05,2
+T0662,02/11/2026 19:38,02/11/2026 21:55,Despliegues/Git,Alta,Cerrado,A06,4
+T0663,03/11/2026 07:46,03/11/2026 08:14,Despliegues/Git,Alta,Cerrado,A01,4
+T0664,03/11/2026 10:46,03/11/2026 19:49,Acceso/Contraseñas,Media,Cerrado,A02,4
+T0665,03/11/2026 12:09,03/11/2026 14:17,Infraestructura/Cloud,Media,Cerrado,A01,4
+T0666,03/11/2026 13:11,03/11/2026 13:32,Software Corporativo,Alta,Cerrado,A01,4
+T0667,03/11/2026 14:02,,Correo Electrónico,Media,Abierto,A04,
+T0668,03/11/2026 15:14,,Infraestructura/Cloud,Alta,Abierto,A05,
+T0669,03/11/2026 16:58,03/11/2026 18:10,Despliegues/Git,Alta,Cerrado,A06,5
+T0670,04/11/2026 01:57,04/11/2026 04:56,Telefonía,Alta,Cerrado,A10,4
+T0671,04/11/2026 10:29,04/11/2026 13:27,Infraestructura/Cloud,Alta,Cerrado,A02,5
+T0672,04/11/2026 15:55,04/11/2026 16:19,Hardware/Impresoras,Alta,Cerrado,A06,2
+T0673,04/11/2026 18:34,05/11/2026 14:45,Software Corporativo,Baja,Cerrado,A05,5
+T0674,04/11/2026 19:31,05/11/2026 10:42,Correo Electrónico,Media,Cerrado,A08,3
+T0675,05/11/2026 01:53,05/11/2026 03:26,Software Corporativo,Alta,Cerrado,A10,4
+T0676,05/11/2026 08:00,07/11/2026 05:37,Telefonía,Baja,Cerrado,A04,5
+T0677,05/11/2026 09:03,05/11/2026 10:09,Software Corporativo,Alta,Cerrado,A03,3
+T0678,05/11/2026 09:27,06/11/2026 02:23,Infraestructura/Cloud,Baja,Cerrado,A01,5
+T0679,05/11/2026 13:18,07/11/2026 08:13,Infraestructura/Cloud,Baja,Cerrado,A03,4
+T0680,05/11/2026 14:19,05/11/2026 15:59,Software Corporativo,Alta,Cerrado,A01,5
+T0681,05/11/2026 14:37,05/11/2026 15:16,Hardware/Impresoras,Alta,Cerrado,A03,3
+T0682,05/11/2026 15:50,,Infraestructura/Cloud,Media,En Progreso,A05,
+T0683,05/11/2026 16:42,05/11/2026 22:04,Infraestructura/Cloud,Media,Cerrado,A06,3
+T0684,05/11/2026 17:42,06/11/2026 16:47,Software Corporativo,Baja,Cerrado,A07,2
+T0685,05/11/2026 19:00,,Software Corporativo,Baja,En Progreso,A05,
+T0686,05/11/2026 21:03,07/11/2026 02:23,Acceso/Contraseñas,Baja,Cerrado,A05,4
+T0687,06/11/2026 07:11,06/11/2026 15:41,Correo Electrónico,Media,Cerrado,A01,5
+T0688,06/11/2026 07:14,06/11/2026 11:52,Software Corporativo,Media,Cerrado,A02,4
+T0689,06/11/2026 08:51,07/11/2026 08:26,Telefonía,Media,Cerrado,A04,4
+T0690,06/11/2026 19:55,07/11/2026 15:04,Correo Electrónico,Baja,Cerrado,A07,4
+T0691,08/11/2026 07:39,08/11/2026 08:23,Telefonía,Alta,Cerrado,A09,5
+T0692,08/11/2026 15:29,08/11/2026 16:09,Infraestructura/Cloud,Alta,Cerrado,A09,4
+T0693,08/11/2026 21:10,08/11/2026 22:05,Software Corporativo,Alta,Cerrado,A09,5
+T0694,09/11/2026 08:39,09/11/2026 10:36,Hardware/Impresoras,Media,Cerrado,A03,4
+T0695,09/11/2026 11:41,09/11/2026 14:15,Hardware/Impresoras,Baja,Cerrado,A02,4
+T0696,09/11/2026 11:54,09/11/2026 18:50,Correo Electrónico,Media,Cerrado,A03,5
+T0697,09/11/2026 11:55,09/11/2026 17:53,Software Corporativo,Media,Cerrado,A02,5
+T0698,09/11/2026 12:31,09/11/2026 14:29,Acceso/Contraseñas,Alta,Cerrado,A02,4
+T0699,09/11/2026 12:40,,Hardware/Impresoras,Media,En Progreso,A04,
+T0700,09/11/2026 17:28,10/11/2026 16:52,Telefonía,Media,Cerrado,A08,1
+T0701,09/11/2026 20:39,10/11/2026 00:16,Telefonía,Media,Cerrado,A08,4
+T0702,10/11/2026 08:27,,Correo Electrónico,Alta,En Progreso,A04,
+T0703,10/11/2026 09:00,10/11/2026 10:30,Correo Electrónico,Alta,Cerrado,A03,4
+T0704,10/11/2026 10:01,10/11/2026 10:32,Software Corporativo,Alta,Cerrado,A03,4
+T0705,10/11/2026 10:39,10/11/2026 13:17,Correo Electrónico,Alta,Cerrado,A02,2
+T0706,10/11/2026 12:13,11/11/2026 04:22,Acceso/Contraseñas,Media,Cerrado,A02,3
+T0707,10/11/2026 13:25,,Infraestructura/Cloud,Baja,Abierto,A01,
+T0708,10/11/2026 15:35,,Infraestructura/Cloud,Baja,Abierto,A08,
+T0709,10/11/2026 22:46,10/11/2026 23:15,Infraestructura/Cloud,Alta,Cerrado,A10,4
+T0710,11/11/2026 07:37,11/11/2026 16:28,Acceso/Contraseñas,Baja,Cerrado,A04,5
+T0711,11/11/2026 08:57,11/11/2026 11:00,Software Corporativo,Alta,Cerrado,A02,3
+T0712,11/11/2026 09:52,12/11/2026 07:42,Correo Electrónico,Baja,Cerrado,A04,1
+T0713,11/11/2026 11:24,12/11/2026 04:40,Despliegues/Git,Media,Cerrado,A01,5
+T0714,11/11/2026 15:15,11/11/2026 16:41,Acceso/Contraseñas,Media,Cerrado,A08,4
+T0715,11/11/2026 16:38,11/11/2026 18:45,Telefonía,Baja,Cerrado,A07,2
+T0716,11/11/2026 17:10,13/11/2026 04:13,Software Corporativo,Baja,Cerrado,A05,4
+T0717,11/11/2026 21:44,11/11/2026 22:08,Telefonía,Alta,Cerrado,A05,3
+T0718,11/11/2026 21:48,12/11/2026 07:01,Telefonía,Baja,Cerrado,A07,5
+T0719,12/11/2026 07:25,12/11/2026 09:47,Acceso/Contraseñas,Alta,Cerrado,A01,4
+T0720,12/11/2026 07:57,12/11/2026 21:32,Telefonía,Media,Cerrado,A02,4
+T0721,12/11/2026 14:21,13/11/2026 12:32,Acceso/Contraseñas,Baja,Cerrado,A04,5
+T0722,12/11/2026 15:45,13/11/2026 15:11,Infraestructura/Cloud,Media,Cerrado,A05,5
+T0723,12/11/2026 15:57,12/11/2026 16:48,Telefonía,Alta,Cerrado,A08,4
+T0724,12/11/2026 16:03,13/11/2026 06:08,Software Corporativo,Media,Cerrado,A07,4
+T0725,12/11/2026 18:25,13/11/2026 08:29,Despliegues/Git,Media,Cerrado,A06,5
+T0726,12/11/2026 19:24,13/11/2026 16:02,Software Corporativo,Media,Cerrado,A05,5
+T0727,12/11/2026 23:54,13/11/2026 00:56,Despliegues/Git,Alta,Cerrado,A09,4
+T0728,13/11/2026 07:37,13/11/2026 13:07,Software Corporativo,Media,Cerrado,A04,2
+T0729,13/11/2026 09:21,13/11/2026 13:06,Despliegues/Git,Media,Cerrado,A02,4
+T0730,13/11/2026 11:50,14/11/2026 16:39,Despliegues/Git,Baja,Cerrado,A02,1
+T0731,13/11/2026 13:32,13/11/2026 18:11,Software Corporativo,Media,Cerrado,A02,5
+T0732,13/11/2026 15:09,13/11/2026 22:56,Correo Electrónico,Baja,Cerrado,A08,5
+T0733,13/11/2026 20:27,14/11/2026 13:39,Software Corporativo,Media,Cerrado,A05,4
+T0734,14/11/2026 01:37,14/11/2026 04:30,Acceso/Contraseñas,Alta,Cerrado,A09,5
+T0735,14/11/2026 08:00,14/11/2026 09:59,Telefonía,Alta,Cerrado,A09,5
+T0736,14/11/2026 15:28,14/11/2026 16:16,Telefonía,Alta,Cerrado,A09,4
+T0737,14/11/2026 19:13,14/11/2026 21:19,Acceso/Contraseñas,Alta,Cerrado,A09,5
+T0738,15/11/2026 05:52,,Acceso/Contraseñas,Alta,Abierto,A10,
+T0739,16/11/2026 07:40,16/11/2026 20:57,Despliegues/Git,Media,Cerrado,A01,5
+T0740,16/11/2026 08:01,,Software Corporativo,Baja,En Progreso,A04,
+T0741,16/11/2026 08:42,16/11/2026 12:18,Hardware/Impresoras,Media,Cerrado,A01,5
+T0742,16/11/2026 13:21,17/11/2026 13:10,Acceso/Contraseñas,Baja,Cerrado,A03,2
+T0743,16/11/2026 16:45,16/11/2026 20:10,Telefonía,Media,Cerrado,A05,3
+T0744,16/11/2026 21:14,17/11/2026 18:38,Correo Electrónico,Media,Cerrado,A08,4
+T0745,17/11/2026 08:33,18/11/2026 10:32,Infraestructura/Cloud,Baja,Cerrado,A04,4
+T0746,17/11/2026 12:01,18/11/2026 04:52,Telefonía,Baja,Cerrado,A04,1
+T0747,17/11/2026 18:13,18/11/2026 13:40,Correo Electrónico,Media,Cerrado,A06,4
+T0748,18/11/2026 00:23,18/11/2026 02:08,Telefonía,Alta,Cerrado,A10,5
+T0749,18/11/2026 08:23,18/11/2026 10:33,Despliegues/Git,Baja,Cerrado,A01,5
+T0750,18/11/2026 10:43,18/11/2026 11:49,Telefonía,Media,Cerrado,A01,3
+T0751,18/11/2026 13:01,,Telefonía,Alta,En Progreso,A02,
+T0752,18/11/2026 14:50,18/11/2026 16:33,Correo Electrónico,Alta,Cerrado,A01,5
+T0753,18/11/2026 14:55,,Telefonía,Media,En Progreso,A02,
+T0754,19/11/2026 09:43,20/11/2026 00:42,Hardware/Impresoras,Baja,Cerrado,A03,4
+T0755,19/11/2026 17:31,,Telefonía,Alta,Abierto,A08,
+T0756,19/11/2026 17:43,19/11/2026 19:33,Telefonía,Alta,Cerrado,A06,4
+T0757,19/11/2026 20:21,21/11/2026 15:20,Software Corporativo,Baja,Cerrado,A06,4
+T0758,20/11/2026 11:49,20/11/2026 22:52,Acceso/Contraseñas,Media,Cerrado,A03,5
+T0759,20/11/2026 13:37,21/11/2026 03:15,Acceso/Contraseñas,Media,Cerrado,A03,4
+T0760,20/11/2026 14:08,20/11/2026 15:09,Acceso/Contraseñas,Alta,Cerrado,A02,5
+T0761,20/11/2026 17:36,20/11/2026 22:17,Acceso/Contraseñas,Media,Cerrado,A06,5
+T0762,20/11/2026 20:27,22/11/2026 03:48,Telefonía,Baja,Cerrado,A06,5
+T0763,20/11/2026 20:47,20/11/2026 21:14,Telefonía,Alta,Cerrado,A05,4
+T0764,20/11/2026 21:38,21/11/2026 15:16,Software Corporativo,Media,Cerrado,A08,5
+T0765,20/11/2026 21:49,21/11/2026 00:15,Telefonía,Alta,Cerrado,A06,4
+T0766,21/11/2026 02:56,21/11/2026 04:50,Despliegues/Git,Alta,Cerrado,A09,5
+T0767,21/11/2026 09:51,21/11/2026 12:13,Despliegues/Git,Alta,Cerrado,A09,5
+T0768,21/11/2026 17:03,21/11/2026 18:25,Hardware/Impresoras,Alta,Cerrado,A09,4
+T0769,21/11/2026 22:29,22/11/2026 01:13,Correo Electrónico,Alta,Cerrado,A10,4
+T0770,21/11/2026 23:31,,Infraestructura/Cloud,Alta,En Progreso,A10,
+T0771,22/11/2026 02:09,22/11/2026 02:43,Telefonía,Alta,Cerrado,A09,2
+T0772,23/11/2026 07:40,23/11/2026 12:18,Software Corporativo,Media,Cerrado,A02,5
+T0773,23/11/2026 10:10,23/11/2026 12:41,Software Corporativo,Alta,Cerrado,A04,5
+T0774,23/11/2026 12:34,23/11/2026 13:55,Correo Electrónico,Alta,Cerrado,A03,5
+T0775,23/11/2026 15:47,,Despliegues/Git,Baja,En Progreso,A06,
+T0776,23/11/2026 16:02,24/11/2026 22:55,Telefonía,Baja,Cerrado,A06,4
+T0777,23/11/2026 16:54,23/11/2026 17:45,Infraestructura/Cloud,Alta,Cerrado,A07,4
+T0778,23/11/2026 17:28,23/11/2026 19:20,Correo Electrónico,Alta,Cerrado,A08,5
+T0779,23/11/2026 17:57,24/11/2026 12:48,Acceso/Contraseñas,Media,Cerrado,A07,2
+T0780,24/11/2026 07:26,25/11/2026 03:04,Hardware/Impresoras,Media,Cerrado,A04,3
+T0781,24/11/2026 13:20,24/11/2026 15:07,Telefonía,Alta,Cerrado,A01,5
+T0782,24/11/2026 15:43,24/11/2026 18:07,Telefonía,Alta,Cerrado,A08,4
+T0783,24/11/2026 16:45,25/11/2026 08:26,Telefonía,Media,Cerrado,A08,3
+T0784,24/11/2026 18:12,25/11/2026 07:07,Correo Electrónico,Baja,Cerrado,A05,3
+T0785,24/11/2026 18:48,24/11/2026 21:49,Acceso/Contraseñas,Media,Cerrado,A07,2
+T0786,24/11/2026 19:44,26/11/2026 17:20,Correo Electrónico,Baja,Cerrado,A08,2
+T0787,24/11/2026 20:37,25/11/2026 18:12,Correo Electrónico,Media,Cerrado,A08,1
+T0788,24/11/2026 21:20,24/11/2026 23:14,Correo Electrónico,Alta,Cerrado,A06,3
+T0789,25/11/2026 08:17,25/11/2026 09:43,Despliegues/Git,Alta,Cerrado,A02,5
+T0790,25/11/2026 08:27,25/11/2026 12:09,Hardware/Impresoras,Media,Cerrado,A04,5
+T0791,25/11/2026 11:29,26/11/2026 00:20,Infraestructura/Cloud,Baja,Cerrado,A03,5
+T0792,25/11/2026 14:49,26/11/2026 13:02,Hardware/Impresoras,Baja,Cerrado,A03,5
+T0793,25/11/2026 19:06,26/11/2026 18:36,Acceso/Contraseñas,Media,Cerrado,A06,5
+T0794,25/11/2026 19:25,25/11/2026 21:45,Despliegues/Git,Alta,Cerrado,A06,3
+T0795,25/11/2026 19:35,26/11/2026 10:58,Acceso/Contraseñas,Media,Cerrado,A08,5
+T0796,25/11/2026 23:19,26/11/2026 02:00,Telefonía,Alta,Cerrado,A09,5
+T0797,26/11/2026 09:38,26/11/2026 21:23,Telefonía,Media,Cerrado,A01,4
+T0798,26/11/2026 11:50,,Acceso/Contraseñas,Media,Abierto,A03,
+T0799,26/11/2026 12:02,26/11/2026 13:01,Infraestructura/Cloud,Alta,Cerrado,A03,4
+T0800,26/11/2026 13:08,27/11/2026 01:44,Correo Electrónico,Baja,Cerrado,A01,5
+T0801,26/11/2026 13:54,27/11/2026 19:04,Despliegues/Git,Baja,Cerrado,A01,2
+T0802,26/11/2026 15:26,27/11/2026 22:03,Acceso/Contraseñas,Baja,Cerrado,A05,4
+T0803,26/11/2026 16:34,26/11/2026 18:33,Acceso/Contraseñas,Alta,Cerrado,A06,4
+T0804,26/11/2026 17:26,26/11/2026 20:07,Despliegues/Git,Alta,Cerrado,A08,5
+T0805,26/11/2026 18:32,27/11/2026 05:55,Software Corporativo,Baja,Cerrado,A08,5
+T0806,27/11/2026 08:31,28/11/2026 00:44,Hardware/Impresoras,Media,Cerrado,A01,5
+T0807,27/11/2026 08:33,27/11/2026 10:09,Correo Electrónico,Alta,Cerrado,A04,4
+T0808,27/11/2026 09:50,28/11/2026 01:07,Despliegues/Git,Media,Cerrado,A03,1
+T0809,27/11/2026 10:58,,Telefonía,Baja,Abierto,A03,
+T0810,27/11/2026 12:18,,Correo Electrónico,Media,Abierto,A02,
+T0811,27/11/2026 14:01,28/11/2026 00:03,Acceso/Contraseñas,Media,Cerrado,A02,2
+T0812,27/11/2026 16:19,29/11/2026 12:03,Telefonía,Baja,Cerrado,A05,5
+T0813,27/11/2026 17:06,27/11/2026 18:14,Infraestructura/Cloud,Alta,Cerrado,A05,4
+T0814,27/11/2026 17:40,,Hardware/Impresoras,Alta,Abierto,A06,
+T0815,27/11/2026 18:17,,Infraestructura/Cloud,Alta,Abierto,A05,
+T0816,27/11/2026 18:43,28/11/2026 18:15,Hardware/Impresoras,Media,Cerrado,A08,5
+T0817,27/11/2026 19:07,28/11/2026 05:24,Software Corporativo,Media,Cerrado,A05,4
+T0818,27/11/2026 19:33,27/11/2026 22:14,Hardware/Impresoras,Alta,Cerrado,A07,2
+T0819,27/11/2026 21:43,27/11/2026 23:01,Software Corporativo,Alta,Cerrado,A07,5
+T0820,28/11/2026 16:25,28/11/2026 18:22,Hardware/Impresoras,Alta,Cerrado,A09,5
+T0821,30/11/2026 07:22,30/11/2026 11:34,Correo Electrónico,Baja,Cerrado,A03,5
+T0822,30/11/2026 09:14,30/11/2026 17:03,Despliegues/Git,Media,Cerrado,A01,3
+T0823,30/11/2026 09:39,02/12/2026 02:34,Software Corporativo,Baja,Cerrado,A02,5
+T0824,30/11/2026 09:53,30/11/2026 11:24,Despliegues/Git,Alta,Cerrado,A04,3
+T0825,30/11/2026 12:50,30/11/2026 18:49,Infraestructura/Cloud,Media,Cerrado,A02,3
+T0826,30/11/2026 13:26,30/11/2026 15:32,Software Corporativo,Alta,Cerrado,A02,5
+T0827,30/11/2026 14:24,01/12/2026 10:38,Telefonía,Media,Cerrado,A04,5
+T0828,30/11/2026 17:24,30/11/2026 18:48,Software Corporativo,Alta,Cerrado,A07,3
+T0829,30/11/2026 18:43,,Despliegues/Git,Baja,Abierto,A07,
+T0830,30/11/2026 19:38,01/12/2026 09:36,Infraestructura/Cloud,Baja,Cerrado,A07,5
+T0831,01/12/2026 07:35,02/12/2026 04:14,Hardware/Impresoras,Media,Cerrado,A04,5
+T0832,01/12/2026 09:35,01/12/2026 10:34,Hardware/Impresoras,Alta,Cerrado,A02,5
+T0833,01/12/2026 14:41,01/12/2026 22:26,Telefonía,Baja,Cerrado,A02,5
+T0834,01/12/2026 16:18,01/12/2026 22:17,Despliegues/Git,Media,Cerrado,A05,5
+T0835,01/12/2026 17:58,01/12/2026 20:09,Software Corporativo,Alta,Cerrado,A07,1
+T0836,01/12/2026 20:49,,Hardware/Impresoras,Media,Abierto,A06,
+T0837,02/12/2026 08:40,03/12/2026 14:23,Hardware/Impresoras,Baja,Cerrado,A04,4
+T0838,02/12/2026 10:34,03/12/2026 01:45,Software Corporativo,Baja,Cerrado,A02,5
+T0839,02/12/2026 10:51,03/12/2026 06:23,Correo Electrónico,Media,Cerrado,A03,5
+T0840,02/12/2026 12:00,02/12/2026 14:24,Correo Electrónico,Alta,Cerrado,A01,3
+T0841,02/12/2026 15:09,02/12/2026 17:33,Correo Electrónico,Alta,Cerrado,A07,5
+T0842,02/12/2026 15:53,02/12/2026 16:31,Correo Electrónico,Alta,Cerrado,A06,5
+T0843,02/12/2026 17:13,02/12/2026 20:13,Acceso/Contraseñas,Alta,Cerrado,A07,5
+T0844,02/12/2026 17:30,02/12/2026 19:22,Despliegues/Git,Alta,Cerrado,A07,5
+T0845,03/12/2026 09:01,,Telefonía,Media,Abierto,A03,
+T0846,03/12/2026 11:07,03/12/2026 11:56,Hardware/Impresoras,Alta,Cerrado,A03,5
+T0847,03/12/2026 15:42,03/12/2026 19:56,Acceso/Contraseñas,Media,Cerrado,A07,2
+T0848,03/12/2026 18:22,04/12/2026 07:37,Despliegues/Git,Media,Cerrado,A05,4
+T0849,04/12/2026 04:37,04/12/2026 07:25,Acceso/Contraseñas,Alta,Cerrado,A09,4
+T0850,04/12/2026 10:01,04/12/2026 11:44,Infraestructura/Cloud,Alta,Cerrado,A01,4
+T0851,04/12/2026 11:11,05/12/2026 17:37,Hardware/Impresoras,Baja,Cerrado,A04,4
+T0852,04/12/2026 13:12,04/12/2026 14:57,Telefonía,Alta,Cerrado,A03,2
+T0853,04/12/2026 14:18,05/12/2026 02:20,Hardware/Impresoras,Media,Cerrado,A02,5
+T0854,04/12/2026 15:50,06/12/2026 08:33,Acceso/Contraseñas,Baja,Cerrado,A07,2
+T0855,04/12/2026 17:21,04/12/2026 18:52,Acceso/Contraseñas,Alta,Cerrado,A05,2
+T0856,04/12/2026 19:00,,Hardware/Impresoras,Alta,En Progreso,A05,
+T0857,04/12/2026 21:49,05/12/2026 00:34,Despliegues/Git,Alta,Cerrado,A06,4
+T0858,05/12/2026 15:07,05/12/2026 17:45,Infraestructura/Cloud,Alta,Cerrado,A09,4
+T0859,05/12/2026 21:42,05/12/2026 23:45,Acceso/Contraseñas,Alta,Cerrado,A09,4
+T0860,06/12/2026 07:01,,Software Corporativo,Alta,En Progreso,A10,
+T0861,06/12/2026 09:39,06/12/2026 11:40,Despliegues/Git,Alta,Cerrado,A10,4
+T0862,06/12/2026 15:39,06/12/2026 16:32,Software Corporativo,Alta,Cerrado,A09,4
+T0863,07/12/2026 10:29,08/12/2026 00:40,Software Corporativo,Baja,Cerrado,A03,4
+T0864,07/12/2026 12:51,07/12/2026 13:17,Hardware/Impresoras,Alta,Cerrado,A04,2
+T0865,07/12/2026 13:01,08/12/2026 05:24,Correo Electrónico,Media,Cerrado,A02,4
+T0866,07/12/2026 13:30,08/12/2026 04:35,Hardware/Impresoras,Media,Cerrado,A02,3
+T0867,07/12/2026 14:54,08/12/2026 20:36,Acceso/Contraseñas,Baja,Cerrado,A04,5
+T0868,07/12/2026 15:18,07/12/2026 17:27,Software Corporativo,Alta,Cerrado,A07,4
+T0869,07/12/2026 17:09,08/12/2026 13:29,Acceso/Contraseñas,Baja,Cerrado,A07,3
+T0870,07/12/2026 21:49,07/12/2026 22:35,Hardware/Impresoras,Alta,Cerrado,A08,4
+T0871,08/12/2026 06:13,08/12/2026 07:52,Telefonía,Alta,Cerrado,A09,4
+T0872,08/12/2026 11:28,09/12/2026 00:10,Correo Electrónico,Baja,Cerrado,A01,4
+T0873,08/12/2026 11:50,08/12/2026 14:06,Telefonía,Alta,Cerrado,A02,2
+T0874,08/12/2026 12:22,09/12/2026 11:21,Despliegues/Git,Baja,Cerrado,A02,4
+T0875,08/12/2026 14:03,08/12/2026 16:00,Hardware/Impresoras,Alta,Cerrado,A04,4
+T0876,08/12/2026 16:31,08/12/2026 18:59,Despliegues/Git,Alta,Cerrado,A05,4
+T0877,08/12/2026 16:59,09/12/2026 04:01,Acceso/Contraseñas,Media,Cerrado,A07,4
+T0878,09/12/2026 10:03,09/12/2026 15:48,Hardware/Impresoras,Media,Cerrado,A01,4
+T0879,09/12/2026 10:20,09/12/2026 12:20,Infraestructura/Cloud,Alta,Cerrado,A02,5
+T0880,09/12/2026 15:28,10/12/2026 01:03,Correo Electrónico,Baja,Cerrado,A07,5
+T0881,09/12/2026 19:07,11/12/2026 15:53,Hardware/Impresoras,Baja,Cerrado,A06,3
+T0882,09/12/2026 21:17,09/12/2026 22:43,Software Corporativo,Alta,Cerrado,A08,5
+T0883,10/12/2026 03:12,10/12/2026 04:40,Acceso/Contraseñas,Alta,Cerrado,A10,5
+T0884,10/12/2026 08:51,10/12/2026 10:31,Infraestructura/Cloud,Alta,Cerrado,A04,3
+T0885,10/12/2026 12:23,11/12/2026 09:18,Infraestructura/Cloud,Media,Cerrado,A03,5
+T0886,10/12/2026 13:04,10/12/2026 13:43,Software Corporativo,Alta,Cerrado,A03,5
+T0887,10/12/2026 21:09,10/12/2026 22:09,Hardware/Impresoras,Alta,Cerrado,A08,4
+T0888,10/12/2026 21:53,11/12/2026 04:46,Despliegues/Git,Media,Cerrado,A08,3
+T0889,11/12/2026 06:07,11/12/2026 07:04,Correo Electrónico,Alta,Cerrado,A10,4
+T0890,11/12/2026 08:07,12/12/2026 02:39,Infraestructura/Cloud,Baja,Cerrado,A04,5
+T0891,11/12/2026 11:56,11/12/2026 13:42,Correo Electrónico,Alta,Cerrado,A04,1
+T0892,11/12/2026 15:30,13/12/2026 03:39,Telefonía,Baja,Cerrado,A06,2
+T0893,11/12/2026 18:11,12/12/2026 18:03,Acceso/Contraseñas,Media,Cerrado,A07,5
+T0894,11/12/2026 21:33,11/12/2026 23:26,Despliegues/Git,Alta,Cerrado,A05,1
+T0895,13/12/2026 06:43,13/12/2026 08:07,Telefonía,Alta,Cerrado,A09,4
+T0896,13/12/2026 14:10,13/12/2026 17:03,Despliegues/Git,Alta,Cerrado,A09,2
+T0897,13/12/2026 20:54,13/12/2026 21:29,Correo Electrónico,Alta,Cerrado,A09,5
+T0898,14/12/2026 07:59,15/12/2026 01:57,Acceso/Contraseñas,Media,Cerrado,A04,3
+T0899,14/12/2026 17:20,16/12/2026 02:45,Despliegues/Git,Baja,Cerrado,A08,5
+T0900,14/12/2026 17:53,14/12/2026 20:48,Acceso/Contraseñas,Alta,Cerrado,A06,5
+T0901,15/12/2026 08:54,15/12/2026 22:56,Despliegues/Git,Media,Cerrado,A03,5
+T0902,15/12/2026 10:08,,Acceso/Contraseñas,Media,En Progreso,A01,
+T0903,15/12/2026 10:08,15/12/2026 12:21,Infraestructura/Cloud,Alta,Cerrado,A02,5
+T0904,15/12/2026 12:10,,Software Corporativo,Alta,Abierto,A04,
+T0905,15/12/2026 12:20,,Hardware/Impresoras,Baja,En Progreso,A02,
+T0906,15/12/2026 12:58,15/12/2026 15:08,Hardware/Impresoras,Alta,Cerrado,A03,4
+T0907,15/12/2026 15:35,15/12/2026 17:37,Infraestructura/Cloud,Alta,Cerrado,A08,5
+T0908,15/12/2026 16:56,17/12/2026 00:34,Hardware/Impresoras,Baja,Cerrado,A06,5
+T0909,15/12/2026 17:46,15/12/2026 20:46,Correo Electrónico,Alta,Cerrado,A05,5
+T0910,15/12/2026 18:39,16/12/2026 09:48,Despliegues/Git,Media,Cerrado,A05,5
+T0911,15/12/2026 18:46,15/12/2026 23:02,Software Corporativo,Baja,Cerrado,A06,5
+T0912,15/12/2026 19:17,,Hardware/Impresoras,Baja,Abierto,A08,
+T0913,15/12/2026 20:10,16/12/2026 14:33,Despliegues/Git,Media,Cerrado,A05,5
+T0914,16/12/2026 02:21,16/12/2026 04:16,Infraestructura/Cloud,Alta,Cerrado,A10,4
+T0915,16/12/2026 08:44,,Hardware/Impresoras,Alta,En Progreso,A02,
+T0916,16/12/2026 14:22,16/12/2026 16:03,Telefonía,Alta,Cerrado,A02,4
+T0917,16/12/2026 15:19,,Telefonía,Baja,En Progreso,A08,
+T0918,16/12/2026 16:45,17/12/2026 11:11,Hardware/Impresoras,Media,Cerrado,A07,5
+T0919,17/12/2026 07:43,18/12/2026 00:20,Infraestructura/Cloud,Media,Cerrado,A02,5
+T0920,17/12/2026 09:10,19/12/2026 01:56,Software Corporativo,Baja,Cerrado,A03,4
+T0921,17/12/2026 09:49,,Despliegues/Git,Baja,En Progreso,A04,
+T0922,17/12/2026 09:52,17/12/2026 11:16,Infraestructura/Cloud,Alta,Cerrado,A03,4
+T0923,17/12/2026 11:05,17/12/2026 17:17,Software Corporativo,Media,Cerrado,A02,4
+T0924,17/12/2026 13:46,18/12/2026 13:25,Software Corporativo,Media,Cerrado,A02,5
+T0925,17/12/2026 18:32,19/12/2026 02:51,Correo Electrónico,Baja,Cerrado,A05,3
+T0926,18/12/2026 07:04,18/12/2026 18:40,Telefonía,Media,Cerrado,A04,5
+T0927,18/12/2026 10:45,18/12/2026 11:10,Telefonía,Alta,Cerrado,A02,4
+T0928,18/12/2026 11:16,19/12/2026 04:50,Correo Electrónico,Media,Cerrado,A04,4
+T0929,18/12/2026 18:27,19/12/2026 08:00,Acceso/Contraseñas,Media,Cerrado,A06,3
+T0930,18/12/2026 19:24,18/12/2026 21:00,Correo Electrónico,Alta,Cerrado,A06,2
+T0931,20/12/2026 00:04,20/12/2026 02:38,Acceso/Contraseñas,Alta,Cerrado,A10,4
+T0932,21/12/2026 05:30,21/12/2026 08:13,Telefonía,Alta,Cerrado,A09,4
+T0933,21/12/2026 08:13,22/12/2026 07:13,Acceso/Contraseñas,Media,Cerrado,A03,5
+T0934,21/12/2026 08:57,21/12/2026 23:15,Correo Electrónico,Baja,Cerrado,A04,3
+T0935,21/12/2026 16:38,21/12/2026 17:16,Correo Electrónico,Alta,Cerrado,A07,5
+T0936,21/12/2026 18:39,23/12/2026 16:00,Software Corporativo,Baja,Cerrado,A07,1
+T0937,21/12/2026 19:33,21/12/2026 21:03,Hardware/Impresoras,Alta,Cerrado,A07,5
+T0938,22/12/2026 07:41,,Hardware/Impresoras,Alta,En Progreso,A04,
+T0939,22/12/2026 10:17,22/12/2026 14:33,Despliegues/Git,Media,Cerrado,A02,5
+T0940,22/12/2026 11:58,,Despliegues/Git,Media,Abierto,A02,
+T0941,22/12/2026 12:33,22/12/2026 15:16,Infraestructura/Cloud,Alta,Cerrado,A01,4
+T0942,22/12/2026 13:07,24/12/2026 02:09,Telefonía,Baja,Cerrado,A04,4
+T0943,22/12/2026 14:14,22/12/2026 17:14,Hardware/Impresoras,Alta,Cerrado,A03,5
+T0944,22/12/2026 17:49,23/12/2026 13:06,Infraestructura/Cloud,Baja,Cerrado,A06,5
+T0945,22/12/2026 20:22,24/12/2026 02:21,Telefonía,Baja,Cerrado,A06,5
+T0946,23/12/2026 03:20,23/12/2026 03:46,Acceso/Contraseñas,Alta,Cerrado,A09,1
+T0947,23/12/2026 10:06,23/12/2026 13:37,Acceso/Contraseñas,Media,Cerrado,A03,5
+T0948,23/12/2026 12:20,,Telefonía,Media,En Progreso,A03,
+T0949,23/12/2026 12:36,23/12/2026 14:25,Hardware/Impresoras,Alta,Cerrado,A02,4
+T0950,23/12/2026 12:49,24/12/2026 09:17,Correo Electrónico,Media,Cerrado,A02,1
+T0951,23/12/2026 15:49,23/12/2026 18:09,Correo Electrónico,Alta,Cerrado,A08,4
+T0952,23/12/2026 16:34,23/12/2026 18:04,Acceso/Contraseñas,Alta,Cerrado,A07,5
+T0953,23/12/2026 18:34,23/12/2026 20:26,Software Corporativo,Alta,Cerrado,A06,5
+T0954,23/12/2026 19:10,24/12/2026 16:03,Software Corporativo,Baja,Cerrado,A05,5
+T0955,23/12/2026 21:54,24/12/2026 20:55,Hardware/Impresoras,Media,Cerrado,A07,3
+T0956,24/12/2026 03:16,24/12/2026 04:51,Software Corporativo,Alta,Cerrado,A09,5
+T0957,24/12/2026 09:00,24/12/2026 15:04,Telefonía,Media,Cerrado,A02,5
+T0958,24/12/2026 14:08,24/12/2026 15:33,Software Corporativo,Alta,Cerrado,A02,5
+T0959,24/12/2026 15:40,24/12/2026 23:43,Telefonía,Media,Cerrado,A07,4
+T0960,24/12/2026 16:41,25/12/2026 11:50,Correo Electrónico,Media,Cerrado,A07,3
+T0961,24/12/2026 18:43,25/12/2026 01:30,Software Corporativo,Media,Cerrado,A05,5
+T0962,25/12/2026 07:31,26/12/2026 12:31,Infraestructura/Cloud,Baja,Cerrado,A03,2
+T0963,25/12/2026 07:50,25/12/2026 20:35,Telefonía,Media,Cerrado,A03,1
+T0964,25/12/2026 11:46,26/12/2026 00:19,Correo Electrónico,Media,Cerrado,A04,3
+T0965,25/12/2026 13:05,25/12/2026 15:38,Hardware/Impresoras,Media,Cerrado,A02,4
+T0966,25/12/2026 13:25,27/12/2026 12:18,Hardware/Impresoras,Baja,Cerrado,A01,4
+T0967,25/12/2026 13:45,26/12/2026 22:25,Software Corporativo,Baja,Cerrado,A02,5
+T0968,25/12/2026 15:36,26/12/2026 19:39,Correo Electrónico,Baja,Cerrado,A06,5
+T0969,25/12/2026 17:24,25/12/2026 19:37,Software Corporativo,Alta,Cerrado,A06,2
+T0970,25/12/2026 20:33,26/12/2026 07:12,Telefonía,Media,Cerrado,A05,5
+T0971,25/12/2026 21:37,27/12/2026 08:29,Correo Electrónico,Baja,Cerrado,A08,5
+T0972,25/12/2026 21:44,,Software Corporativo,Baja,Abierto,A07,
+T0973,26/12/2026 08:29,26/12/2026 09:12,Despliegues/Git,Alta,Cerrado,A10,2
+T0974,26/12/2026 11:33,,Infraestructura/Cloud,Alta,En Progreso,A09,
+T0975,26/12/2026 17:18,26/12/2026 18:18,Software Corporativo,Alta,Cerrado,A09,5
+T0976,27/12/2026 07:24,27/12/2026 09:11,Correo Electrónico,Alta,Cerrado,A10,5
+T0977,28/12/2026 09:32,30/12/2026 01:58,Acceso/Contraseñas,Baja,Cerrado,A01,1
+T0978,28/12/2026 09:55,29/12/2026 03:09,Hardware/Impresoras,Media,Cerrado,A02,4
+T0979,28/12/2026 15:07,29/12/2026 06:07,Acceso/Contraseñas,Baja,Cerrado,A08,3
+T0980,28/12/2026 15:18,29/12/2026 00:18,Despliegues/Git,Media,Cerrado,A06,3
+T0981,28/12/2026 17:21,28/12/2026 18:49,Software Corporativo,Alta,Cerrado,A06,5
+T0982,28/12/2026 19:05,,Software Corporativo,Baja,En Progreso,A08,
+T0983,28/12/2026 19:31,28/12/2026 21:33,Hardware/Impresoras,Alta,Cerrado,A05,5
+T0984,29/12/2026 07:42,29/12/2026 21:59,Despliegues/Git,Baja,Cerrado,A04,3
+T0985,29/12/2026 11:39,,Hardware/Impresoras,Media,En Progreso,A01,
+T0986,29/12/2026 12:02,30/12/2026 11:28,Correo Electrónico,Baja,Cerrado,A03,5
+T0987,29/12/2026 15:48,30/12/2026 21:35,Acceso/Contraseñas,Baja,Cerrado,A08,5
+T0988,29/12/2026 18:55,29/12/2026 20:20,Infraestructura/Cloud,Alta,Cerrado,A05,3
+T0989,29/12/2026 19:45,,Correo Electrónico,Alta,En Progreso,A08,
+T0990,30/12/2026 07:43,30/12/2026 12:22,Hardware/Impresoras,Media,Cerrado,A02,3
+T0991,30/12/2026 08:42,30/12/2026 10:53,Acceso/Contraseñas,Alta,Cerrado,A01,3
+T0992,30/12/2026 08:44,30/12/2026 10:21,Software Corporativo,Alta,Cerrado,A02,5
+T0993,30/12/2026 13:08,30/12/2026 13:41,Hardware/Impresoras,Alta,Cerrado,A02,5
+T0994,30/12/2026 16:47,,Correo Electrónico,Baja,En Progreso,A05,
+T0995,30/12/2026 17:40,31/12/2026 23:01,Telefonía,Baja,Cerrado,A08,4
+T0996,30/12/2026 20:06,30/12/2026 22:07,Software Corporativo,Alta,Cerrado,A08,4
+T0997,31/12/2026 08:23,31/12/2026 11:10,Correo Electrónico,Alta,Cerrado,A02,4
+T0998,31/12/2026 12:55,31/12/2026 13:32,Software Corporativo,Alta,Cerrado,A04,5
+T0999,31/12/2026 13:57,31/12/2026 16:25,Infraestructura/Cloud,Alta,Cerrado,A01,5
+T1000,31/12/2026 17:51,,Correo Electrónico,Alta,En Progreso,A06,

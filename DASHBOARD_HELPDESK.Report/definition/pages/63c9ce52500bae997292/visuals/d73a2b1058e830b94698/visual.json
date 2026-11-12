@@ -1,0 +1,295 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.14.0/schema.json",
+  "name": "d73a2b1058e830b94698",
+  "position": {
+    "x": 22.972972972972972,
+    "y": 301.35135135135135,
+    "z": 2000,
+    "height": 760.81081081081084,
+    "width": 759.45945945945948,
+    "tabOrder": 2000
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "tickets_helpdesk_completo"
+                    }
+                  },
+                  "Property": "ID_Agente"
+                }
+              },
+              "queryRef": "tickets_helpdesk_completo.ID_Agente",
+              "nativeQueryRef": "ID_Agente"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "AGENTE - copia"
+                    }
+                  },
+                  "Property": "Nombre_Agente"
+                }
+              },
+              "queryRef": "AGENTE - copia.Nombre_Agente",
+              "nativeQueryRef": "Nombre_Agente1"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "tickets_helpdesk_completo"
+                    }
+                  },
+                  "Property": "ID_Ticket"
+                }
+              },
+              "queryRef": "tickets_helpdesk_completo.ID_Ticket",
+              "nativeQueryRef": "ID_Ticket"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Objetivos_SLA"
+                    }
+                  },
+                  "Property": "Prioridad"
+                }
+              },
+              "queryRef": "Objetivos_SLA.Prioridad",
+              "nativeQueryRef": "Prioridad"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "tickets_helpdesk_completo"
+                    }
+                  },
+                  "Property": "Estado"
+                }
+              },
+              "queryRef": "tickets_helpdesk_completo.Estado",
+              "nativeQueryRef": "Estado"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "tickets_helpdesk_completo"
+                    }
+                  },
+                  "Property": "Tiempo_ticket"
+                }
+              },
+              "queryRef": "tickets_helpdesk_completo.Tiempo_ticket",
+              "nativeQueryRef": "Tiempo ticket",
+              "displayName": "Tiempo ticket"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "tickets_helpdesk_completo"
+                  }
+                },
+                "Property": "Estado"
+              }
+            },
+            "direction": "Ascending"
+          }
+        ]
+      }
+    },
+    "objects": {
+      "columnHeaders": [
+        {
+          "properties": {
+            "fontColor": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "ThemeDataColor": {
+                      "ColorId": 2,
+                      "Percent": 0.4
+                    }
+                  }
+                }
+              }
+            },
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "14D"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "total": [
+        {
+          "properties": {
+            "totals": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "values": [
+        {
+          "properties": {
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "13D"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "columnFormatting": [
+        {
+          "properties": {
+            "fontColor": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "ThemeDataColor": {
+                      "ColorId": 3,
+                      "Percent": 0.2
+                    }
+                  }
+                }
+              }
+            },
+            "alignment": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Right'"
+                }
+              }
+            }
+          },
+          "selector": {
+            "metadata": "tickets_helpdesk_completo.Tiempo_ticket"
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  },
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "5a0f7b828d59706b4a44",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "tickets_helpdesk_completo"
+              }
+            },
+            "Property": "ID_Agente"
+          }
+        },
+        "type": "Categorical"
+      },
+      {
+        "name": "d55368444a5413125ac3",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "AGENTE - copia"
+              }
+            },
+            "Property": "Nombre_Agente"
+          }
+        },
+        "type": "Categorical"
+      },
+      {
+        "name": "5e0b5bc9ad7b22c3ae37",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "tickets_helpdesk_completo"
+              }
+            },
+            "Property": "ID_Ticket"
+          }
+        },
+        "type": "Categorical"
+      },
+      {
+        "name": "c332b9d9662be29a639c",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "Objetivos_SLA"
+              }
+            },
+            "Property": "Prioridad"
+          }
+        },
+        "type": "Categorical"
+      },
+      {
+        "name": "fd86f3ab0b49db234bdd",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "tickets_helpdesk_completo"
+              }
+            },
+            "Property": "Estado"
+          }
+        },
+        "type": "Categorical"
+      },
+      {
+        "name": "79d1073a67380525742c",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "tickets_helpdesk_completo"
+              }
+            },
+            "Property": "Tiempo_ticket"
+          }
+        },
+        "type": "Categorical"
+      }
+    ]
+  }
+}

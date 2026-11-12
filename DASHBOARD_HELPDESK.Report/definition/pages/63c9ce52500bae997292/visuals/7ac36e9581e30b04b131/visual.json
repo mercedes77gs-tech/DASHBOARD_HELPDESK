@@ -1,0 +1,38 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.14.0/schema.json",
+  "name": "7ac36e9581e30b04b131",
+  "position": {
+    "x": 318.33333333333337,
+    "y": 195,
+    "z": 10000,
+    "height": 90.540540540540547,
+    "width": 464.8648648648649,
+    "tabOrder": 10000
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "CONTROL HELPDESK",
+                    "textStyle": {
+                      "fontSize": "32pt",
+                      "color": "#b7f5f5"
+                    }
+                  }
+                ],
+                "horizontalTextAlignment": "center"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

@@ -1,0 +1,85 @@
+table Objetivos_SLA
+	lineageTag: 28d7f28f-8958-4a63-acb7-2f6b22f9335f
+
+	measure Color_SLA =
+			
+			VAR Objetivo = 216
+			VAR Actual = [PROMEDIO MIN RESOLUCION]
+			RETURN
+			SWITCH(
+			    TRUE(),
+			    Actual <= Objetivo * 0.8, "#00C853",
+			    Actual <= Objetivo, "#FFC107",
+			    "#D50000"
+			)
+		isHidden
+		lineageTag: d7d76fef-2355-4996-b020-45d31940a079
+
+		changedProperty = IsHidden
+
+	measure Estado_SLA = ```
+			
+			VAR Actual = [PROMEDIO MIN RESOLUCION]
+			
+			-- SELECTEDVALUE busca si hay una prioridad seleccionada. 
+			-- Si NO hay ninguna pulsada, la variable se queda VACÍA (BLANK).
+			VAR PrioridadActiva = SELECTEDVALUE(tickets_helpdesk_completo[Prioridad])
+			
+			RETURN
+			SWITCH(
+			    TRUE(),
+			    -- 1. SI EL USUARIO PULSÓ EL BOTÓN "ALTA"
+			    PrioridadActiva = "Alta",
+			        SWITCH(
+			            TRUE(),
+			            -- VERDE: Menor o igual a 98 minutos
+			            Actual <= 98, "🟢",
+			            
+			            -- NARANJA: Entre 98.1 y 104 minutos
+			            Actual > 98 && Actual <= 104, "🟠",
+			            
+			            -- ROJO: A partir de 105 minutos
+			            "🔴"
+			        ),
+			
+			    -- 2. VISTA GLOBAL: SI NO HAY NINGÚN BOTÓN PULSADO (PrioridadActiva está vacío)
+			    ISBLANK(PrioridadActiva), "🟠",
+			        
+			    -- 3. Por defecto para Media o Baja por ahora
+			    "🟢"
+			)
+			
+			```
+		lineageTag: 01ebf761-37be-4e95-aef3-f490257343de
+
+	column Prioridad
+		dataType: string
+		lineageTag: a30796d7-6187-432c-ad37-16ddcae59bea
+		summarizeBy: none
+		sourceColumn: Prioridad
+
+		annotation SummarizationSetBy = Automatic
+
+	column Tiempo_Maximo_Horas
+		dataType: int64
+		formatString: 0
+		lineageTag: 4119d047-a819-4446-9801-1ee97dac7c45
+		summarizeBy: none
+		sourceColumn: Tiempo_Maximo_Horas
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Objetivos_SLA = m
+		mode: import
+		source =
+				let
+				    Origen = Csv.Document(File.Contents("Z:\MIS TRABAJOS\DASHBOARD_HELPDESK\CSV\Objetivos_SLA.csv"),[Delimiter=",", Columns=2, Encoding=1252, QuoteStyle=QuoteStyle.None]),
+				    #"Encabezados promovidos" = Table.PromoteHeaders(Origen, [PromoteAllScalars=true]),
+				    #"Tipo cambiado" = Table.TransformColumnTypes(#"Encabezados promovidos",{{"Prioridad", type text}, {"Tiempo_Maximo_Horas", Int64.Type}})
+				in
+				    #"Tipo cambiado"
+
+	annotation PBI_NavigationStepName = Navegación
+
+	annotation PBI_ResultType = Table
+
