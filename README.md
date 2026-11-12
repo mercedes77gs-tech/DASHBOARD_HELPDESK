@@ -1,3 +1,12 @@
+<img width="1165" height="665" alt="Captura de pantalla 2026-11-11 182144" src="https://github.com/user-attachments/assets/2e5a85f0-50f1-4b51-9f5e-3258d4ca14da" />
+<img width="1177" height="670" alt="Captura de pantalla 2026-11-11 182319" src="https://github.com/user-attachments/assets/8dced5aa-0ff4-41a0-a480-f02d9ca3acca" />
+<img width="1175" height="676" alt="Captura de pantalla 2026-11-11 182410" src="https://github.com/user-attachments/assets/eaa2e2c9-97f8-4354-9278-25c7ba009a9f" />
+<img width="1170" height="668" alt="Captura de pantalla 2026-11-11 182452" src="https://github.com/user-attachments/assets/52d2d5a2-974b-4c02-9e91-e8bb1d263887" />
+<img width="1168" height="672" alt="Captura de pantalla 2026-11-11 182529" src="https://github.com/user-attachments/assets/9dc4b122-f2a6-4dc6-9607-c1fdd0b356de" />
+<img width="1176" height="673" alt="Captura de pantalla 2026-11-11 182609" src="https://github.com/user-attachments/assets/576fcdaa-2f2c-4dc1-b5f2-ef68ce196829" />
+<img width="1170" height="661" alt="Captura de pantalla 2026-11-11 182652" src="https://github.com/user-attachments/assets/cdf74570-09a5-4852-aa28-b234cdd98376" />
+
+
 # README_helpdesk
 
 # Helpdesk Tech Analytics Dashboard
